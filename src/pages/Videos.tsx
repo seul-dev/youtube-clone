@@ -1,3 +1,7 @@
+import { useParams } from 'react-router-dom';
+
 export default function Videos() {
-  return <div>videos</div>;
+  const { keyword } = useParams();
+
+  return <div>videos{keyword ? `검색결과-${keyword} ` : 'main'}</div>;
 }
