@@ -1,0 +1,1544 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "9h0bq5L8WloW-sDccGmcwawTujY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "MfG1I1XpwueH-eaZeWOJNvWy_gI",
+      "id": "32RAq6JzY-w",
+      "snippet": {
+        "publishedAt": "2023-02-10T15:44:35Z",
+        "channelId": "UCJCx8aQrdx_ueXPmxTD2odQ",
+        "title": "FAST X | Official Trailer",
+        "description": "The end of the road begins. \n\nFast X, the tenth film in the Fast & Furious Saga, launches the final chapters of one of cinema’s most storied and popular global franchises, now in its third decade and still going strong with the same core cast and characters as when it began.\n\nOver many missions and against impossible odds, Dom Toretto (Vin Diesel) and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they’ve ever faced: A terrifying threat emerging from the shadows of the past who’s fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.  \n \nIn 2011’s Fast Five, Dom and his crew took out nefarious Brazilian drug kingpin Hernan Reyes and decapitated his empire on a bridge in Rio De Janeiro. What they didn’t know was that Reyes’ son, Dante (Aquaman’s Jason Momoa), witnessed it all and has spent the last 12 years masterminding a plan to make Dom pay the ultimate price. \n \nDante’s plot will scatter Dom’s family from Los Angeles to the catacombs of Rome, from Brazil to London and from Portugal to Antarctica. New allies will be forged and old enemies will resurface. But everything changes when Dom discovers that his own 8-year-old son (Leo Abelo Perry, Black-ish) is the ultimate target of Dante’s vengeance. \n \nDirected by Louis Leterrier (Clash of the Titans, The Incredible Hulk), Fast X stars returning cast members Michelle Rodriguez, Tyrese Gibson, Chris “Ludacris” Bridges, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Jason Statham, John Cena and Scott Eastwood, with Oscar® winner Helen Mirren and Oscar® winner Charlize Theron. \n \nThe film also features an extraordinary new cast including Oscar® winner Brie Larson as Tess, a rogue representative from the Agency; Alan Richtson (Reacher) as Aimes, the new head of the Agency who doesn’t hold the same fondness for Dom’s crew as his predecessor, Mr. Nobody; Daniela Melchior (The Suicide Squad) as a Brazilian street racer with a powerful tie to Dom’s past; and legendary Oscar® winner Rita Moreno as Dom and Mia’s Abuelita Toretto. \n \nFast X is produced by Neal H. Moritz, Vin Diesel, Justin Lin, Jeff Kirschenbaum and Samantha Vincent. The executive producers are Joseph M. Caracciolo, Jr., David Cain, Chris Morgan, Amanda Lewis and Mark Bomback. www.thefastsaga.com\n\nOfficial Website: https://www.fastxmovie.com/\nFacebook: https://www.facebook.com/TheFastSaga\nInstagram: https://www.instagram.com/TheFastSaga\nTwitter: https://twitter.com/TheFastSaga\nTikTok: https://www.tiktok.com/@thefastsaga\n\n#FASTX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/32RAq6JzY-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/32RAq6JzY-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/32RAq6JzY-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/32RAq6JzY-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Fast Saga",
+        "tags": ["Fast & Furious", "Hobbs & Shaw"],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "FAST X | Official Trailer",
+          "description": "The end of the road begins. \n\nFast X, the tenth film in the Fast & Furious Saga, launches the final chapters of one of cinema’s most storied and popular global franchises, now in its third decade and still going strong with the same core cast and characters as when it began.\n\nOver many missions and against impossible odds, Dom Toretto (Vin Diesel) and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they’ve ever faced: A terrifying threat emerging from the shadows of the past who’s fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.  \n \nIn 2011’s Fast Five, Dom and his crew took out nefarious Brazilian drug kingpin Hernan Reyes and decapitated his empire on a bridge in Rio De Janeiro. What they didn’t know was that Reyes’ son, Dante (Aquaman’s Jason Momoa), witnessed it all and has spent the last 12 years masterminding a plan to make Dom pay the ultimate price. \n \nDante’s plot will scatter Dom’s family from Los Angeles to the catacombs of Rome, from Brazil to London and from Portugal to Antarctica. New allies will be forged and old enemies will resurface. But everything changes when Dom discovers that his own 8-year-old son (Leo Abelo Perry, Black-ish) is the ultimate target of Dante’s vengeance. \n \nDirected by Louis Leterrier (Clash of the Titans, The Incredible Hulk), Fast X stars returning cast members Michelle Rodriguez, Tyrese Gibson, Chris “Ludacris” Bridges, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Jason Statham, John Cena and Scott Eastwood, with Oscar® winner Helen Mirren and Oscar® winner Charlize Theron. \n \nThe film also features an extraordinary new cast including Oscar® winner Brie Larson as Tess, a rogue representative from the Agency; Alan Richtson (Reacher) as Aimes, the new head of the Agency who doesn’t hold the same fondness for Dom’s crew as his predecessor, Mr. Nobody; Daniela Melchior (The Suicide Squad) as a Brazilian street racer with a powerful tie to Dom’s past; and legendary Oscar® winner Rita Moreno as Dom and Mia’s Abuelita Toretto. \n \nFast X is produced by Neal H. Moritz, Vin Diesel, Justin Lin, Jeff Kirschenbaum and Samantha Vincent. The executive producers are Joseph M. Caracciolo, Jr., David Cain, Chris Morgan, Amanda Lewis and Mark Bomback. www.thefastsaga.com\n\nOfficial Website: https://www.fastxmovie.com/\nFacebook: https://www.facebook.com/TheFastSaga\nInstagram: https://www.instagram.com/TheFastSaga\nTwitter: https://twitter.com/TheFastSaga\nTikTok: https://www.tiktok.com/@thefastsaga\n\n#FASTX"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aAq0MS6GoU8HAY5JXK8Pj6bWhEI",
+      "id": "ujM487iP5I8",
+      "snippet": {
+        "publishedAt": "2023-02-09T23:26:59Z",
+        "channelId": "UCo4WuB8ozP-Qvx2FQLi5pIQ",
+        "title": "Rushed my Fiancé to the EMERGENCY ROOM the Day after the Proposal…",
+        "description": "Hey guys… so we know this is a different type of video and we didnt expectthis to happenaftwr such an amazing day by far our favorite day. But things happen, bad stuff happen for good to come! We will drop updates soon and please don’ come for our Scar Boy it was truley an accident. We love you guys and dont forget to subscribe and hit the post notifications!! ❤️ \n\nGnB On Top Of The Wrold Merch is OUT NOW!! 🌎❤️ - https://www.gnbmerch.com/\n\n💼 For any business inquires please email us here! - Offical.GnB@gmail.com 📩\n\nFollow us on all social media down below! \nGnB TikTok - https://www.tiktok.com/@gnb.official?lang=en&is_copy_url=1&is_from_webapp=v1\n\n‼️Britney's Socials‼️\nInstagram - https://instagram.com/britneyyy.official?igshid=YmMyMTA2M2Y=\nB’s Snap 👻 - https://t.snapchat.com/rdA2XNTY\nYouTube - https://www.youtube.com/channel/UCteVJto0-ppFYDVsvQ_B3Gg\nBritney's Tiktok - https://www.tiktok.com/@britneyy.official?lang=en\n\n‼️Garik's Socials‼️\nInstagram - https://www.instagram.com/garik2official/?hl=en\nG’s Car IG 🏎️💨- https://instagram.com/gzkittty?utm_medium=copy_link\nG’s Snap 👻 - https://t.snapchat.com/RGFCo8g0\n\n👨\u200d🍳🍖 Garik's BBQ Location - 16045 Victory Blvd Van Nuys CA 91406",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ujM487iP5I8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ujM487iP5I8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ujM487iP5I8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ujM487iP5I8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ujM487iP5I8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GnB Official ",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rushed my Fiancé to the EMERGENCY ROOM the Day after the Proposal…",
+          "description": "Hey guys… so we know this is a different type of video and we didnt expectthis to happenaftwr such an amazing day by far our favorite day. But things happen, bad stuff happen for good to come! We will drop updates soon and please don’ come for our Scar Boy it was truley an accident. We love you guys and dont forget to subscribe and hit the post notifications!! ❤️ \n\nGnB On Top Of The Wrold Merch is OUT NOW!! 🌎❤️ - https://www.gnbmerch.com/\n\n💼 For any business inquires please email us here! - Offical.GnB@gmail.com 📩\n\nFollow us on all social media down below! \nGnB TikTok - https://www.tiktok.com/@gnb.official?lang=en&is_copy_url=1&is_from_webapp=v1\n\n‼️Britney's Socials‼️\nInstagram - https://instagram.com/britneyyy.official?igshid=YmMyMTA2M2Y=\nB’s Snap 👻 - https://t.snapchat.com/rdA2XNTY\nYouTube - https://www.youtube.com/channel/UCteVJto0-ppFYDVsvQ_B3Gg\nBritney's Tiktok - https://www.tiktok.com/@britneyy.official?lang=en\n\n‼️Garik's Socials‼️\nInstagram - https://www.instagram.com/garik2official/?hl=en\nG’s Car IG 🏎️💨- https://instagram.com/gzkittty?utm_medium=copy_link\nG’s Snap 👻 - https://t.snapchat.com/RGFCo8g0\n\n👨\u200d🍳🍖 Garik's BBQ Location - 16045 Victory Blvd Van Nuys CA 91406"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JG9bl_5o-KDwhKV1ipCRoZIckA4",
+      "id": "7NK_JOkuSVY",
+      "snippet": {
+        "publishedAt": "2023-02-10T05:00:08Z",
+        "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+        "title": "Lost [Official Music Video] - Linkin Park",
+        "description": "Download/Stream Lost : http://lprk.co/lost\n\nVideo Credits: \nDirectors: Maciej Kuciara, pplpleasr\n\nProduction Company: Shibuya - http://shibuya.xyz\n\nAI Production: Kaiber, Jacky Lu - https://kaiber.ai/, Sagans, @sagansagansagans\n\nEditor and Compositing Lead: Anthony Scott Burns\nIllustration: jun._.ka\n\nAnimation: Alasdair Willson, Andrew Hawryluk, Colby Beckett, Daniels Gulbis, Egor Mark, Kim Ho, Torell Vowles, Toros Kose\n\nMeteora|20 out April 7th\nPre-order Now: https://meteora20.lnk.to/YTmusicstore\n\nhttp://www.linkinpark.com | http://LPUnderground.com\nOfficial Linkin Park Merch: http://lprk.co/store\nYouTube Subscribe: http://lprk.co/youtube\nFacebook: http://lprk.co/facebook\nInstagram: http://lprk.co/instagram\nTikTok: http://lprk.co/tiktok\nTwitter: http://lprk.co/twitter\nDiscord: https://discord.gg/linkinpark \n\n#LinkinPark #Meteora #Lost",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7NK_JOkuSVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7NK_JOkuSVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7NK_JOkuSVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7NK_JOkuSVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7NK_JOkuSVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Linkin Park",
+        "tags": [
+          "Linkin Park",
+          "Chester Bennington",
+          "Mike Shinoda",
+          "Brad Delson",
+          "Dave Farrell",
+          "Phoenix",
+          "Rob Bourdon",
+          "Joe Hahn",
+          "Anniversary",
+          "New Linkin Park",
+          "Numb",
+          "Crawling",
+          "In The End",
+          "Meteora",
+          "Lost",
+          "Meteora 20th Anniversary"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lost [Official Music Video] - Linkin Park",
+          "description": "Download/Stream Lost : http://lprk.co/lost\n\nVideo Credits: \nDirectors: Maciej Kuciara, pplpleasr\n\nProduction Company: Shibuya - http://shibuya.xyz\n\nAI Production: Kaiber, Jacky Lu - https://kaiber.ai/, Sagans, @sagansagansagans\n\nEditor and Compositing Lead: Anthony Scott Burns\nIllustration: jun._.ka\n\nAnimation: Alasdair Willson, Andrew Hawryluk, Colby Beckett, Daniels Gulbis, Egor Mark, Kim Ho, Torell Vowles, Toros Kose\n\nMeteora|20 out April 7th\nPre-order Now: https://meteora20.lnk.to/YTmusicstore\n\nhttp://www.linkinpark.com | http://LPUnderground.com\nOfficial Linkin Park Merch: http://lprk.co/store\nYouTube Subscribe: http://lprk.co/youtube\nFacebook: http://lprk.co/facebook\nInstagram: http://lprk.co/instagram\nTikTok: http://lprk.co/tiktok\nTwitter: http://lprk.co/twitter\nDiscord: https://discord.gg/linkinpark \n\n#LinkinPark #Meteora #Lost"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yhuJT3VYoVGMK3mWZZ0q-VThigc",
+      "id": "slS33eHWE70",
+      "snippet": {
+        "publishedAt": "2023-02-09T23:00:35Z",
+        "channelId": "UCzegztfNzXt-YRxeJlgF0fA",
+        "title": "#DinnerWIthTheDon Valentines Edition with @MoneyBaggYoOfficial",
+        "description": "Pan Seared Chicken Breast\nMashed Potatoes\nSautéed Broccolini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/slS33eHWE70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/slS33eHWE70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/slS33eHWE70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/slS33eHWE70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/slS33eHWE70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TheRealKyleSister",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "#DinnerWIthTheDon Valentines Edition with @MoneyBaggYoOfficial",
+          "description": "Pan Seared Chicken Breast\nMashed Potatoes\nSautéed Broccolini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tMjQ6jfNze1-xkfNBB5kWeJJD5k",
+      "id": "pS0ARgkWESg",
+      "snippet": {
+        "publishedAt": "2023-02-10T05:00:07Z",
+        "channelId": "UCj2GTFekdV3EUsTVN8oaEqA",
+        "title": "Kevin Gates - Breakfast (Official Music Video)",
+        "description": "Kevin Gates - Breakfast \nStream ‘Breakfast’ Now!\nhttps://www.kevingates.lnk.to/breakfast \n\nDirector: Gerard Victor\nVideo Commissioner: Joseph Boyd\nVideo Producer: Mally Brandon\nBTS: G-Town\nProduction Company: Shot Selection\n\nSee Kevin live!\nhttps://www.kvngates.com/tour\n\nGet your merchandise here! \nhttp://smarturl.it/kevingates.store\n\nSubscribe for more official content from Kevin Gates:\nhttps://kevingates.lnk.to/Subscribe\n\nFollow Kevin Gates\nTikTok: https://www.tiktok.com/t/ZTdKJ3VWW\nInstagram: http://instagram.com/iamkevingates\nTwitter: http://twitter.com/iamkevingates\nFacebook: https://facebook.com/kvngates\nSoundcloud: https://soundcloud.com/kevingates\nWebsite: http://www.kvngates.com\n\nThe official YouTube channel of Atlantic Records artist Kevin Gates. Subscribe for the latest music videos, performances, and more.\n\n#KevinGates #Breakfast #Khaza",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pS0ARgkWESg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pS0ARgkWESg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pS0ARgkWESg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pS0ARgkWESg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pS0ARgkWESg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kevingatesTV",
+        "tags": [
+          "kevin gates",
+          "kevin",
+          "gates",
+          "BWA",
+          "bad for me",
+          "dreka",
+          "beyonce",
+          "thinking with my dick",
+          "thinking with my d",
+          "super general freestyle",
+          "khaza",
+          "Kevin Gates lyrics",
+          "Brittany Renner",
+          "Kevin Gates interview",
+          "Kevin Gates freestyle",
+          "Kevin Gates new album",
+          "Kevin Gates power",
+          "big gangsta",
+          "dear god",
+          "Kevin Gates intro",
+          "super gremlin",
+          "Kevin Gates wife",
+          "Kevin Gates girlfriend",
+          "Kevin Gates performance",
+          "Kevin Gates new music",
+          "Breakfast",
+          "Beat that",
+          "kevin gates nasty",
+          "i got breakfast for you"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kevin Gates - Breakfast (Official Music Video)",
+          "description": "Kevin Gates - Breakfast \nStream ‘Breakfast’ Now!\nhttps://www.kevingates.lnk.to/breakfast \n\nDirector: Gerard Victor\nVideo Commissioner: Joseph Boyd\nVideo Producer: Mally Brandon\nBTS: G-Town\nProduction Company: Shot Selection\n\nSee Kevin live!\nhttps://www.kvngates.com/tour\n\nGet your merchandise here! \nhttp://smarturl.it/kevingates.store\n\nSubscribe for more official content from Kevin Gates:\nhttps://kevingates.lnk.to/Subscribe\n\nFollow Kevin Gates\nTikTok: https://www.tiktok.com/t/ZTdKJ3VWW\nInstagram: http://instagram.com/iamkevingates\nTwitter: http://twitter.com/iamkevingates\nFacebook: https://facebook.com/kvngates\nSoundcloud: https://soundcloud.com/kevingates\nWebsite: http://www.kvngates.com\n\nThe official YouTube channel of Atlantic Records artist Kevin Gates. Subscribe for the latest music videos, performances, and more.\n\n#KevinGates #Breakfast #Khaza"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xPNG6TEvSRI0zYwnaNIwvYBCZ0M",
+      "id": "E91pJYO_s7I",
+      "snippet": {
+        "publishedAt": "2023-02-10T15:00:08Z",
+        "channelId": "UC3S-tYM-oNvzuCQHD8cUvqg",
+        "title": "Lovejoy - Call Me What You Like (OFFICIAL VIDEO)",
+        "description": "Official Music Video for \"Call Me What You Like\" by Lovejoy\nStream here: https://lovejoy.ffm.to/cmwyl \n\nListen to Lovejoy\nSpotify: https://lovejoy.ffm.to/music/spotify \nApple Music: https://lovejoy.ffm.to/music/apple \n\nKeep up if you like\nTwitter: https://twitter.com/lovejoy \nInstagram: https://www.instagram.com/lovejoyonline/ \nDiscord: https://lovejoy.ffm.to/discord \nMailing List: https://lovejoy.ffm.to/mailinglist \n\nWritten by Will Gold, Joe Goldsmith, Ash Kabosu and Mark Boardman\nProduced by Mark Crew and Dan Priddy\nMastered by Giovanni Versari\n\nEdited By Ash Kabosu\nWritten & Directed by Ash Kabosu & Will Gold\n\nLYRICS\n\nI never was a fan of the internet\nShe never felt that safe in her own head\nWe both hate the news\nThere for the grace of God goes you\nSmiling when I ask if she’s bored yet\nWonder if we took it too far\nBoth taste confused\nDarling, what am I to do?\n\nI like to think that I’m\nThe only guy she’ll see tonight\nYou can call me what you like\nAs long as you call me\n\nAnd you can kiss the skin from my lips til it makes you feel good\nI’m not sure if you want it, not sure if you need me too\nAnd you can taste the beer on every guy who talks to you\nBut you can’t stay awake forever\nNo you can’t stay awake forever\n\nSo I find myself in your mum’s bedroom\nFighting with the pink roller blinds\nIt’s on pay-per-view\nPlace your bets on who’s lost their mind\nTake a pirouette under duvet set\nSigh with perfect pitch and with time\nI’m not made for you\nBut what else is new?\nOh, lord she tells me that it’s nothing\nI really hope it’s nothing\n\nAnd you can kiss the skin from my lips til it makes you feel good\nI’m not sure if you want it, not sure if you need me too\nAnd you can taste the beer on every guy who talks to you\nBut you can’t stay awake forever\nNo you can’t stay awake forever\n\nThis just in; I am a total fucking dumbass\nAnd I’ve come to the uncomfortable conclusion I’ll be spending the rest of my life in a state of constant paranoia\nJust let me follow you\nAnd I’ll proceed to bang my head on every doorway and doorframe you see suitable for us to go through And I’ve found that the road to happiness is paved\nWith rows and rows of very tempting parking spaces\nI’m not paranoid, I’m a realist\nI know you’re gonna kill me!\n\nAnd you can kiss the skin from my lips til it makes you feel good\nI’m not sure if you want it, not sure if you need me too\nAnd you can taste the beer on every guy who talks to you\nBut you can’t stay awake forever No you can’t stay awake forever\n\n#lovejoy #callmewhatyoulike #cmwyl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E91pJYO_s7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E91pJYO_s7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E91pJYO_s7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E91pJYO_s7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E91pJYO_s7I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lovejoy",
+        "tags": [
+          "lovejoy",
+          "love",
+          "joy",
+          "band",
+          "wilbur",
+          "soot",
+          "wilbur soot",
+          "uk",
+          "indie rock",
+          "ash kabosu",
+          "joe goldsmith",
+          "mark boardman",
+          "call me what you like",
+          "cmwyl",
+          "lyric",
+          "lyrics",
+          "call",
+          "me",
+          "what",
+          "you",
+          "like",
+          "lovejoy 2023",
+          "new lovejoy",
+          "new love joy"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lovejoy - Call Me What You Like (OFFICIAL VIDEO)",
+          "description": "Official Music Video for \"Call Me What You Like\" by Lovejoy\nStream here: https://lovejoy.ffm.to/cmwyl \n\nListen to Lovejoy\nSpotify: https://lovejoy.ffm.to/music/spotify \nApple Music: https://lovejoy.ffm.to/music/apple \n\nKeep up if you like\nTwitter: https://twitter.com/lovejoy \nInstagram: https://www.instagram.com/lovejoyonline/ \nDiscord: https://lovejoy.ffm.to/discord \nMailing List: https://lovejoy.ffm.to/mailinglist \n\nWritten by Will Gold, Joe Goldsmith, Ash Kabosu and Mark Boardman\nProduced by Mark Crew and Dan Priddy\nMastered by Giovanni Versari\n\nEdited By Ash Kabosu\nWritten & Directed by Ash Kabosu & Will Gold\n\nLYRICS\n\nI never was a fan of the internet\nShe never felt that safe in her own head\nWe both hate the news\nThere for the grace of God goes you\nSmiling when I ask if she’s bored yet\nWonder if we took it too far\nBoth taste confused\nDarling, what am I to do?\n\nI like to think that I’m\nThe only guy she’ll see tonight\nYou can call me what you like\nAs long as you call me\n\nAnd you can kiss the skin from my lips til it makes you feel good\nI’m not sure if you want it, not sure if you need me too\nAnd you can taste the beer on every guy who talks to you\nBut you can’t stay awake forever\nNo you can’t stay awake forever\n\nSo I find myself in your mum’s bedroom\nFighting with the pink roller blinds\nIt’s on pay-per-view\nPlace your bets on who’s lost their mind\nTake a pirouette under duvet set\nSigh with perfect pitch and with time\nI’m not made for you\nBut what else is new?\nOh, lord she tells me that it’s nothing\nI really hope it’s nothing\n\nAnd you can kiss the skin from my lips til it makes you feel good\nI’m not sure if you want it, not sure if you need me too\nAnd you can taste the beer on every guy who talks to you\nBut you can’t stay awake forever\nNo you can’t stay awake forever\n\nThis just in; I am a total fucking dumbass\nAnd I’ve come to the uncomfortable conclusion I’ll be spending the rest of my life in a state of constant paranoia\nJust let me follow you\nAnd I’ll proceed to bang my head on every doorway and doorframe you see suitable for us to go through And I’ve found that the road to happiness is paved\nWith rows and rows of very tempting parking spaces\nI’m not paranoid, I’m a realist\nI know you’re gonna kill me!\n\nAnd you can kiss the skin from my lips til it makes you feel good\nI’m not sure if you want it, not sure if you need me too\nAnd you can taste the beer on every guy who talks to you\nBut you can’t stay awake forever No you can’t stay awake forever\n\n#lovejoy #callmewhatyoulike #cmwyl"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gEz1WsHVGIIc67mBzsTVE_5O_u8",
+      "id": "jJAo2cn1IC0",
+      "snippet": {
+        "publishedAt": "2023-02-10T02:00:07Z",
+        "channelId": "UCKsN6xyJ2w8g7p4p9apXkYQ",
+        "title": "Grupo Frontera x Grupo Marca Registrada - Di Que Si (Video Oficial)",
+        "description": "Grupo Frontera x Grupo Marca Registrada - Di Que Si (Video Oficial)\nSuscríbete a nuestro canal: https://bit.ly/GrupoFronteraYT\n\nProducción Ejecutiva: Juan Javier Cantu y Alberto Acosta\nCompositor y Productor: Edgar Barrera \nIngeniero de grabación: MartinAudio, Eleazar Cantu, Vari Alberto García  \nIngeniero de Mezcla: MartinAudio\nIngeniero de Mastering: Luis Barrera Jr\n\nLetra:\nLlevo varias noches pisteandome el dolor \nRogándole a Dios que me devuelva tu amor \nBebé ya desbloquea mis llamadas que quiero hablarte \nSolo dame un minuto pa’ explicarte \nQue la regué, me equivoqué \nPerdóname, no lo vuelvo hacer \n\nPorque tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño y no haces nada \nTanto que yo hice por ti \n\nY es que tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño \nY si me extrañas, por favor dime que sí \nDi que sí \nPorfa di que sí \nPorfa di que sí \nPorfa di que sí \n\nQue la regué, me equivoqué \nPerdóname, no lo vuelvo hacer \n\nPorque tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño y no haces nada \nTanto que yo hice por ti \n\nY es que tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño \nY si me extrañas, por favor dime que sí \nDi que sí \nPorfa di que sí \nPorfa di que sí \nPorfa di que sí\n_____________________\n#grupofrontera #marcaregistrada #grupomarcaregistrada",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jJAo2cn1IC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jJAo2cn1IC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jJAo2cn1IC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jJAo2cn1IC0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jJAo2cn1IC0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Grupo Frontera",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Grupo Frontera x Grupo Marca Registrada - Di Que Si (Video Oficial)",
+          "description": "Grupo Frontera x Grupo Marca Registrada - Di Que Si (Video Oficial)\nSuscríbete a nuestro canal: https://bit.ly/GrupoFronteraYT\n\nProducción Ejecutiva: Juan Javier Cantu y Alberto Acosta\nCompositor y Productor: Edgar Barrera \nIngeniero de grabación: MartinAudio, Eleazar Cantu, Vari Alberto García  \nIngeniero de Mezcla: MartinAudio\nIngeniero de Mastering: Luis Barrera Jr\n\nLetra:\nLlevo varias noches pisteandome el dolor \nRogándole a Dios que me devuelva tu amor \nBebé ya desbloquea mis llamadas que quiero hablarte \nSolo dame un minuto pa’ explicarte \nQue la regué, me equivoqué \nPerdóname, no lo vuelvo hacer \n\nPorque tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño y no haces nada \nTanto que yo hice por ti \n\nY es que tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño \nY si me extrañas, por favor dime que sí \nDi que sí \nPorfa di que sí \nPorfa di que sí \nPorfa di que sí \n\nQue la regué, me equivoqué \nPerdóname, no lo vuelvo hacer \n\nPorque tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño y no haces nada \nTanto que yo hice por ti \n\nY es que tengo varias noches sin dormir \nMi cama se quedó con el olor a ti \nYo te extraño, te extraño \nY si me extrañas, por favor dime que sí \nDi que sí \nPorfa di que sí \nPorfa di que sí \nPorfa di que sí\n_____________________\n#grupofrontera #marcaregistrada #grupomarcaregistrada"
+        },
+        "defaultAudioLanguage": "es-ES"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-YLx-Xpe8QqCuAhBo3F1QX4mZ5Y",
+      "id": "27nRqoBQLl4",
+      "snippet": {
+        "publishedAt": "2023-02-10T05:00:01Z",
+        "channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+        "title": "Luke Combs - Love You Anyway (Official Studio Video)",
+        "description": "Listen to \"Love You Anyway\" out now from Luke's upcoming album,\n'Gettin' Old' out March 24: https://LC.lnk.to/GettinOld\n  \nListen On:\nApple Music: https://LC.lnk.to/GettinOldAY/applemusic       \nSpotify: https://LC.lnk.to/GettinOldAY/spotify      \nAmazon Music: https://LC.lnk.to/GettinOldAY/amazonmusic    \niTunes: https://LC.lnk.to/GettinOldAY/itunes \nPandora: https://LC.lnk.to/GettinOldAY/pandora \nYouTube Music: https://LC.lnk.to/GettinOldAY/youtubemusic   \nYouTube: https://LC.lnk.to/GettinOldAY/youtube  \n  \nFollow Luke: \nInstagram: https://LC.lnk.to/profileYT/instagram\nFacebook: https://LC.lnk.to/profileYT/facebook\nTwitter: https://LC.lnk.to/profileYT/twitter\nTikTok: https://LC.lnk.to/profileYT/tiktok\nTwitch: https://LC.lnk.to/profileYT/twitch\nSubscribe to his channel: https://LC.lnk.to/profileYT/youtube\nWebsite/Tour Dates/Bootleggers Fan Club: https://LC.lnk.to/profileYT/officialsite\n \n#LukeCombs #LoveYouAnyway #Official\n\nhttp://vevo.ly/shrfPD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/27nRqoBQLl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/27nRqoBQLl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/27nRqoBQLl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/27nRqoBQLl4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/27nRqoBQLl4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LukeCombsVEVO",
+        "tags": [
+          "luke combs",
+          "gettin’ old",
+          "growin’ up",
+          "unreleased original",
+          "joe",
+          "grand ole opry",
+          "forever after all",
+          "without you",
+          "my kinda folk",
+          "cold as you",
+          "tiktok",
+          "better together",
+          "even though im leaving",
+          "live",
+          "lyrics",
+          "what you see is what you get",
+          "when it rains it pours",
+          "does to me",
+          "eric church",
+          "beer never broke my heart",
+          "lovin on you",
+          "luke combs live",
+          "beautiful crazy",
+          "leaving",
+          "tik tok",
+          "hurricane",
+          "brooks and dunn",
+          "this ones for you",
+          "refrigerator door",
+          "one"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Luke Combs - Love You Anyway (Official Studio Video)",
+          "description": "Listen to \"Love You Anyway\" out now from Luke's upcoming album,\n'Gettin' Old' out March 24: https://LC.lnk.to/GettinOld\n  \nListen On:\nApple Music: https://LC.lnk.to/GettinOldAY/applemusic       \nSpotify: https://LC.lnk.to/GettinOldAY/spotify      \nAmazon Music: https://LC.lnk.to/GettinOldAY/amazonmusic    \niTunes: https://LC.lnk.to/GettinOldAY/itunes \nPandora: https://LC.lnk.to/GettinOldAY/pandora \nYouTube Music: https://LC.lnk.to/GettinOldAY/youtubemusic   \nYouTube: https://LC.lnk.to/GettinOldAY/youtube  \n  \nFollow Luke: \nInstagram: https://LC.lnk.to/profileYT/instagram\nFacebook: https://LC.lnk.to/profileYT/facebook\nTwitter: https://LC.lnk.to/profileYT/twitter\nTikTok: https://LC.lnk.to/profileYT/tiktok\nTwitch: https://LC.lnk.to/profileYT/twitch\nSubscribe to his channel: https://LC.lnk.to/profileYT/youtube\nWebsite/Tour Dates/Bootleggers Fan Club: https://LC.lnk.to/profileYT/officialsite\n \n#LukeCombs #LoveYouAnyway #Official\n\nhttp://vevo.ly/shrfPD"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d3VYZvN2ZqMajGxSOql6pScR7Bw",
+      "id": "yMdUSVSEp7U",
+      "snippet": {
+        "publishedAt": "2023-02-08T22:55:38Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 2.8.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct featuring information mostly focused on Nintendo Switch games launching in the first half of 2023.\n\n00:00 – Intro\n00:22 – Pikmin 4\n03:59 – Xenoblade Chronicles 3 Expansion Pass DLC\n05:17 – Samba de Amigo: Party Central\n06:33 – Fashion Dreamer\n07:53 – Dead Cells: Return to Castlevania DLC\n08:39 – TRON: Identity\n09:06 – Ghost Trick: Phantom Detective\n09:42 – DECAPOLICE\n11:19 – Bayonetta Origins: Cereza and the Lost Demon\n13:05 – Splatoon 3: Expansion Pass DLC\n16:55 – Disney Illusion Island\n18:30 – Fire Emblem Engage Expansion Pass DLC\n19:59 – Harmony: The Fall of Reverie\n21:05 – OCTOPATH TRAVELER II\n21:36 – We Love Katamari REROLL+ Royal Reverie\n22:16 – Sea of Stars\n22:52 – Omega Strikers\n23:31 – Etrian Odyssey Origins Collection\n24:56 – Advance Wars 1+2: Re-Boot Camp\n25:38 – Kirby’s Return to Dream Land Deluxe\n27:54 – Game Boy – Nintendo Switch Online\n29:52 – Game Boy Advance – Nintendo Switch Online\n32:00 – Metroid Prime Remastered\n34:26 – Master Detective Archives: RAIN CODE\n35:46 – Baten Kaitos I & II HD Remaster\n37:04 – Fantasy Life i: The Girl Who Steals Time\n38:19 – PROFESSOR LAYTON and The New World of Steam\n38:43 – Mario Kart 8 Deluxe – Booster Course Pass DLC\n39:50 – Minecraft Legends\n39:58 – Blanc\n40:12 – Mega Man Battle Network Legacy Collection\n40:25 – Have a Nice Death\n40:37 – WBSC eBASEBALL: Power Pros\n40:46 – Disney Dreamlight Valley\n41:02 – Tales of Symphonia Remastered\n41:23 – The Legend of Zelda: Tears of the Kingdom\n44:16 – Outro\n\nTo learn more about these games, visit: https://www.nintendo.com/nintendo-direct/02-08-2023/\n\n#NintendoDirect #NintendoSwitch \n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yMdUSVSEp7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yMdUSVSEp7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMdUSVSEp7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yMdUSVSEp7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yMdUSVSEp7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": ["game", "gameplay", "nintendo"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 2.8.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct featuring information mostly focused on Nintendo Switch games launching in the first half of 2023.\n\n00:00 – Intro\n00:22 – Pikmin 4\n03:59 – Xenoblade Chronicles 3 Expansion Pass DLC\n05:17 – Samba de Amigo: Party Central\n06:33 – Fashion Dreamer\n07:53 – Dead Cells: Return to Castlevania DLC\n08:39 – TRON: Identity\n09:06 – Ghost Trick: Phantom Detective\n09:42 – DECAPOLICE\n11:19 – Bayonetta Origins: Cereza and the Lost Demon\n13:05 – Splatoon 3: Expansion Pass DLC\n16:55 – Disney Illusion Island\n18:30 – Fire Emblem Engage Expansion Pass DLC\n19:59 – Harmony: The Fall of Reverie\n21:05 – OCTOPATH TRAVELER II\n21:36 – We Love Katamari REROLL+ Royal Reverie\n22:16 – Sea of Stars\n22:52 – Omega Strikers\n23:31 – Etrian Odyssey Origins Collection\n24:56 – Advance Wars 1+2: Re-Boot Camp\n25:38 – Kirby’s Return to Dream Land Deluxe\n27:54 – Game Boy – Nintendo Switch Online\n29:52 – Game Boy Advance – Nintendo Switch Online\n32:00 – Metroid Prime Remastered\n34:26 – Master Detective Archives: RAIN CODE\n35:46 – Baten Kaitos I & II HD Remaster\n37:04 – Fantasy Life i: The Girl Who Steals Time\n38:19 – PROFESSOR LAYTON and The New World of Steam\n38:43 – Mario Kart 8 Deluxe – Booster Course Pass DLC\n39:50 – Minecraft Legends\n39:58 – Blanc\n40:12 – Mega Man Battle Network Legacy Collection\n40:25 – Have a Nice Death\n40:37 – WBSC eBASEBALL: Power Pros\n40:46 – Disney Dreamlight Valley\n41:02 – Tales of Symphonia Remastered\n41:23 – The Legend of Zelda: Tears of the Kingdom\n44:16 – Outro\n\nTo learn more about these games, visit: https://www.nintendo.com/nintendo-direct/02-08-2023/\n\n#NintendoDirect #NintendoSwitch \n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D4fCehtjILZuhZeFzoUfNxUfG2M",
+      "id": "q4t2saPEYw8",
+      "snippet": {
+        "publishedAt": "2023-02-10T15:30:22Z",
+        "channelId": "UCP5tjEmvPItGyLhmjdwP7Ww",
+        "title": "What Russia Doesn’t Want You to See Happening in Ukraine",
+        "description": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 30% off your subscription by visiting https://ground.news/reallifelore\n\nPlease Subscribe: http://bit.ly/2dB7VTO​​​\n\nSelect video clips courtesy of Getty Images\n\nSelect video clips courtesy of the AP Archive\n\nSpecial thanks to MapTiler / OpenStreetMap Contributors and GEOlayers 3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q4t2saPEYw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q4t2saPEYw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4t2saPEYw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q4t2saPEYw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q4t2saPEYw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RealLifeLore",
+        "tags": [
+          "real life lore",
+          "real life lore maps",
+          "real life lore geography",
+          "real life maps",
+          "world map",
+          "world map is wrong",
+          "world map with countries",
+          "world map real size",
+          "map of the world",
+          "world geography",
+          "geography",
+          "geography (field of study)",
+          "facts you didn’t know"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "What Russia Doesn’t Want You to See Happening in Ukraine",
+          "description": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 30% off your subscription by visiting https://ground.news/reallifelore\n\nPlease Subscribe: http://bit.ly/2dB7VTO​​​\n\nSelect video clips courtesy of Getty Images\n\nSelect video clips courtesy of the AP Archive\n\nSpecial thanks to MapTiler / OpenStreetMap Contributors and GEOlayers 3"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "o5Rcyu71mibGOPBUycq2QSx7JH0",
+      "id": "iwPtRXtqU6E",
+      "snippet": {
+        "publishedAt": "2023-02-10T16:00:22Z",
+        "channelId": "UCodbH5mUeF-m_BsNueRDjcw",
+        "title": "Trope Talk: The Heart",
+        "description": "Last but not least, the fifth member of the Five-Man Band! But what is the point of them, really? And have they truly moved beyond their token origins as the one they call… The Chick? Let's discuss!\n\nOur content is intended for teenage audiences and up.\n\nPATREON: https://www.Patreon.com/OSP\n\nPODCAST: https://overlysarcasticpodcast.transistor.fm/subscribe\n\nDISCORD: https://discord.gg/osp\n\nMERCH LINKS: http://rdbl.co/osp\n\nOUR WEBSITE: https://www.OverlySarcasticProductions.com/\nFind us on Twitter https://www.Twitter.com/OSPYouTube\nFind us on Reddit https://www.Reddit.com/r/OSP/\n\nWant this video in another language? Check out our guide to contributing translated captions: https://www.overlysarcasticproductions.com/community-captions",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwPtRXtqU6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwPtRXtqU6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwPtRXtqU6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwPtRXtqU6E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iwPtRXtqU6E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Overly Sarcastic Productions",
+        "tags": [
+          "Funny",
+          "Summary",
+          "OSP",
+          "Overly Sarcastic Productions",
+          "Analysis",
+          "Literary Analysis",
+          "Myths",
+          "Legends",
+          "Classics",
+          "Literature",
+          "Stories",
+          "Storytelling",
+          "History",
+          "Mythology"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Trope Talk: The Heart",
+          "description": "Last but not least, the fifth member of the Five-Man Band! But what is the point of them, really? And have they truly moved beyond their token origins as the one they call… The Chick? Let's discuss!\n\nOur content is intended for teenage audiences and up.\n\nPATREON: https://www.Patreon.com/OSP\n\nPODCAST: https://overlysarcasticpodcast.transistor.fm/subscribe\n\nDISCORD: https://discord.gg/osp\n\nMERCH LINKS: http://rdbl.co/osp\n\nOUR WEBSITE: https://www.OverlySarcasticProductions.com/\nFind us on Twitter https://www.Twitter.com/OSPYouTube\nFind us on Reddit https://www.Reddit.com/r/OSP/\n\nWant this video in another language? Check out our guide to contributing translated captions: https://www.overlysarcasticproductions.com/community-captions"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TTq96mTbl1A1bEfib-Fk1-p-NDw",
+      "id": "X8dG4k1wEmI",
+      "snippet": {
+        "publishedAt": "2023-02-10T16:00:07Z",
+        "channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+        "title": "Apex Legends: Revelry Battle Pass Trailer",
+        "description": "Suit up for the most raging party in Outlands history with the Revelry Battle Pass! Slay your way through Daily and Weekly challenges to earn new themed rewards like Legendary skins for Crypto, Valkyrie, and the G7 Scout, plus Epic skins for Bloodhound, Mirage and Rampart, Reactive skins for the Mastiff, and more! On the path to mastery, earn a new music pack, loading screens, emotes, banner frames and weapon charms. Buy the Revelry Battle Pass now, or jump ahead with the bundle to instantly unlock the first 25 levels.\n\n#ApexLegendsRevelry #ApexRevelry #ApexLegends\n\nCREDITS\nProduction Company: Electronic Arts & Dark Burn Creative\nSound Design and Mix: Respawn Entertainment\nAll other categories: Electronic Arts & Respawn Entertainment\n\nhttp://x.ea.com/76084\n\nApex Legends™ is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\nLearn more about Apex Legends: Revelry http://x.ea.com/76084\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X8dG4k1wEmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X8dG4k1wEmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X8dG4k1wEmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X8dG4k1wEmI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X8dG4k1wEmI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apex Legends",
+        "tags": [
+          "apex legends",
+          "apex",
+          "apex legends season 16",
+          "apex legends trailer",
+          "apex trailer",
+          "apex battle pass season 16",
+          "エーペックス",
+          "apex トレーラー apex season 16",
+          "apex legends revelry",
+          "apex legends season 16 battle pass",
+          "apex season 16 trailer",
+          "apex season 16 battle pass",
+          "apex legends battle pass",
+          "revelry battle pass apex",
+          "battle pass trailer apex",
+          "battle royale game",
+          "apex games",
+          "apex legends ps4",
+          "apex legends xbox",
+          "apex legends pc",
+          "respawn entertainment",
+          "electronic arts",
+          "titanfall 2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Apex Legends: Revelry Battle Pass Trailer",
+          "description": "Suit up for the most raging party in Outlands history with the Revelry Battle Pass! Slay your way through Daily and Weekly challenges to earn new themed rewards like Legendary skins for Crypto, Valkyrie, and the G7 Scout, plus Epic skins for Bloodhound, Mirage and Rampart, Reactive skins for the Mastiff, and more! On the path to mastery, earn a new music pack, loading screens, emotes, banner frames and weapon charms. Buy the Revelry Battle Pass now, or jump ahead with the bundle to instantly unlock the first 25 levels.\n\n#ApexLegendsRevelry #ApexRevelry #ApexLegends\n\nCREDITS\nProduction Company: Electronic Arts & Dark Burn Creative\nSound Design and Mix: Respawn Entertainment\nAll other categories: Electronic Arts & Respawn Entertainment\n\nhttp://x.ea.com/76084\n\nApex Legends™ is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\nLearn more about Apex Legends: Revelry http://x.ea.com/76084\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ABShdWWJJ4e_TVlD8pIlaLLr4p8",
+      "id": "1fa_npv6y9I",
+      "snippet": {
+        "publishedAt": "2023-02-10T01:00:07Z",
+        "channelId": "UC648rgJOboZlgcDbW00vTSA",
+        "title": "Junior H x Peso Pluma - El Azul [En Vivo]",
+        "description": "Suscríbete: https://Rancho.lnk.to/RHYoutube\nJunior H x Peso Pluma - El Azul [En Vivo]\n\nDirected by Johnny Ragr\nExecutive Producer Jimmy Humilde\n\n🎶Paginas Oficiales De Rancho Humilde\nSpotify: https://Rancho.lnk.to/RHSpotify\nInstagram: https://Rancho.lnk.to/Instagram\nFacebook:https://Rancho.lnk.to/RHFacebook\n\nYouTube Playlists 📢📢  | Corridos \nMix En Vivo: https://bit.ly/CorridosENVIVO   \nMix Corridos Videos Oficiales: https://bit.ly/CorridosRanchoHumilde \n\n#JuniorH #PesoPluma #RanchoHumilde",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1fa_npv6y9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1fa_npv6y9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1fa_npv6y9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1fa_npv6y9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1fa_npv6y9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rancho Humilde",
+        "tags": [
+          "Rancho Humilde",
+          "Rancho",
+          "Jimmy Humilde",
+          "Natanael Cano",
+          "Fuerza Regida",
+          "Herencia de Patrones",
+          "Arsenal Efectivo",
+          "El De La Guitarra",
+          "Grupo Codiciado",
+          "Alta Consigna",
+          "Junior H",
+          "Corridos Tumbados",
+          "Corridos",
+          "Corridos Verdes",
+          "Regional urbano",
+          "Clika",
+          "SMO",
+          "Regional Mexicano",
+          "Trap",
+          "Banda",
+          "Jr H",
+          "Peso Pluma",
+          "junior h peso pluma el azul",
+          "el azul junior h peso pluma",
+          "rancho humilde junior h el azul",
+          "rancho humilde el azul",
+          "junior h peso pluma el azul rancho humilde"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Junior H x Peso Pluma - El Azul [En Vivo]",
+          "description": "Suscríbete: https://Rancho.lnk.to/RHYoutube\nJunior H x Peso Pluma - El Azul [En Vivo]\n\nDirected by Johnny Ragr\nExecutive Producer Jimmy Humilde\n\n🎶Paginas Oficiales De Rancho Humilde\nSpotify: https://Rancho.lnk.to/RHSpotify\nInstagram: https://Rancho.lnk.to/Instagram\nFacebook:https://Rancho.lnk.to/RHFacebook\n\nYouTube Playlists 📢📢  | Corridos \nMix En Vivo: https://bit.ly/CorridosENVIVO   \nMix Corridos Videos Oficiales: https://bit.ly/CorridosRanchoHumilde \n\n#JuniorH #PesoPluma #RanchoHumilde"
+        },
+        "defaultAudioLanguage": "es-MX"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TEzIUJYXTLrEXiC5ULqTmWwCnvQ",
+      "id": "pZwtBEdYNIE",
+      "snippet": {
+        "publishedAt": "2023-02-10T17:12:41Z",
+        "channelId": "UCUK0HBIBWgM2c4vsPhkYY4w",
+        "title": "Bouncing Bullets off Water in Ultra Slow Motion - The Slow Mo Guys",
+        "description": "Bullets can skip off the surface of water in one millisecond. Gav and Dan have always been of the opinion that a millisecond is slightly too short so they whip out the slow mo camera and make it last 5 seconds. I wonder if any of the comments will be about how in America it's twenty two and not two two...\nInstagram - https://www.instagram.com/theslowmoguys\nFilmed at 82,000fps with the TMX7510\nBouncing Bullets off Water in Ultra Slow Motion - The Slow Mo Guys",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pZwtBEdYNIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pZwtBEdYNIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pZwtBEdYNIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pZwtBEdYNIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pZwtBEdYNIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Slow Mo Guys",
+        "tags": [
+          "slomo",
+          "slow",
+          "mo",
+          "super",
+          "motion",
+          "Slow Motion",
+          "1000",
+          "1000fps",
+          "gav",
+          "dan",
+          "slowmoguys",
+          "phantom",
+          "guys",
+          "HD",
+          "flex",
+          "gavin",
+          "free",
+          "gavin free",
+          "high speed camera",
+          "the slow mo guys",
+          "2000",
+          "2000fps",
+          "5000",
+          "5000fps",
+          "bounce",
+          "bullet",
+          "water",
+          "bullets",
+          "ricochet",
+          ".22",
+          "22",
+          "rifle"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Bouncing Bullets off Water in Ultra Slow Motion - The Slow Mo Guys",
+          "description": "Bullets can skip off the surface of water in one millisecond. Gav and Dan have always been of the opinion that a millisecond is slightly too short so they whip out the slow mo camera and make it last 5 seconds. I wonder if any of the comments will be about how in America it's twenty two and not two two...\nInstagram - https://www.instagram.com/theslowmoguys\nFilmed at 82,000fps with the TMX7510\nBouncing Bullets off Water in Ultra Slow Motion - The Slow Mo Guys"
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oK7tRSb8d1XDctd_JLJTJF8gvzY",
+      "id": "fYZuiFDQwQw",
+      "snippet": {
+        "publishedAt": "2023-02-08T22:44:46Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "The Legend of Zelda: Tears of the Kingdom – Official Trailer #2",
+        "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda™: Tears of the Kingdom for Nintendo Switch. The adventure is yours to create in a world fueled by your imagination.\n\nIn this sequel to The Legend of Zelda: Breath of the Wild, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten the kingdom?\n\nWatch the latest trailer to see what Link’s latest quest has in store, including never before seen weapons and mysterious vehicles…\n\nThis trailer can be enjoyed with 5.1 surround sound on compatible devices. How to turn on 5.1 surround sound on: https://support.google.com/youtube/answer/11904456?hl=en\n\n#NintendoSwitch #TearsOfTheKingdom\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYZuiFDQwQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYZuiFDQwQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYZuiFDQwQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fYZuiFDQwQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fYZuiFDQwQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch",
+          "The Legend of Zelda: Tears of the Kingdom nintendo",
+          "The Legend of Zelda: Tears of the Kingdom nintendo switch",
+          "The Legend of Zelda: Tears of the Kingdom official trailer",
+          "The Legend of Zelda: Tears of the Kingdom trailer",
+          "new breath of the wild game trailer",
+          "tears of the kingdom new trailer",
+          "new zelda game trailer",
+          "zelda game 2023 trailer",
+          "zelda game 2023",
+          "new zelda game nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Legend of Zelda: Tears of the Kingdom – Official Trailer #2",
+          "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda™: Tears of the Kingdom for Nintendo Switch. The adventure is yours to create in a world fueled by your imagination.\n\nIn this sequel to The Legend of Zelda: Breath of the Wild, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten the kingdom?\n\nWatch the latest trailer to see what Link’s latest quest has in store, including never before seen weapons and mysterious vehicles…\n\nThis trailer can be enjoyed with 5.1 surround sound on compatible devices. How to turn on 5.1 surround sound on: https://support.google.com/youtube/answer/11904456?hl=en\n\n#NintendoSwitch #TearsOfTheKingdom\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IHNApa7549PO_C0c5rqbKx1wsFo",
+      "id": "EqgVKcCe1Zg",
+      "snippet": {
+        "publishedAt": "2023-02-10T17:02:17Z",
+        "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
+        "title": "A Skeptical Review of 'Hogwarts Legacy'",
+        "description": "Follow all my other accounts or I'll start doing hot-tub streams.\n•  Live Channel:  https://www.youtube.com/@LukeStephensLive\n•  Twitter - https://twitter.com/LukeStephensTV\n•  Instagram - https://www.instagram.com/LukeStephensTV\n • Our Discord Server: https://discord.gg/5ZYbXPf\n•  Main Channel: https://www.youtube.com/@LukeStephensTV\n--------------------------------------------------------------------\nHogwarts Legacy is a 2023 action role-playing game developed by Avalanche Software and published by Warner Bros. Games under its Portkey Games label. The game is set in the Wizarding World universe, based on the Harry Potter novels.\n\nHogwarts Legacy is a 2023 action role-playing game developed by Avalanche Software and published by Warner Bros. Games under its Portkey Games label. The game is set in the Wizarding World universe, based on the Harry Potter novels. Taking place prior to the events of the novels, the player controls a student at the titular Hogwarts School of Witchcraft and Wizardry in 1899, who subsequently learns to wield different magical abilities and objects, aided by other students and professors. The game was released for PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S, and Nintendo Switch in 2023.\n--------------------------------------------------------------------\n███ █┼█ ██▄ ███ ███ ███ ███ ██▄ ███\n█▄▄ █┼█ █▄█ █▄▄ █┼┼ █▄┼ ┼█┼ █▄█ █▄┼\n▄▄█ ███ █▄█ ▄▄█ ███ █┼█ ▄█▄ █▄█ █▄▄\n--------------------------------------------------------------------\nSubscribe and I'll be your bestest friend!\n#hogwartslegacy #gaming #harrypotter #lukestephens",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqgVKcCe1Zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqgVKcCe1Zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqgVKcCe1Zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EqgVKcCe1Zg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EqgVKcCe1Zg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Luke Stephens",
+        "tags": [
+          "luke stephens",
+          "luke stephens hogwarts legacy",
+          "hogwarts legacy",
+          "hogwarts legacy review",
+          "new harry potter game",
+          "harry potter game"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "A Skeptical Review of 'Hogwarts Legacy'",
+          "description": "Follow all my other accounts or I'll start doing hot-tub streams.\n•  Live Channel:  https://www.youtube.com/@LukeStephensLive\n•  Twitter - https://twitter.com/LukeStephensTV\n•  Instagram - https://www.instagram.com/LukeStephensTV\n • Our Discord Server: https://discord.gg/5ZYbXPf\n•  Main Channel: https://www.youtube.com/@LukeStephensTV\n--------------------------------------------------------------------\nHogwarts Legacy is a 2023 action role-playing game developed by Avalanche Software and published by Warner Bros. Games under its Portkey Games label. The game is set in the Wizarding World universe, based on the Harry Potter novels.\n\nHogwarts Legacy is a 2023 action role-playing game developed by Avalanche Software and published by Warner Bros. Games under its Portkey Games label. The game is set in the Wizarding World universe, based on the Harry Potter novels. Taking place prior to the events of the novels, the player controls a student at the titular Hogwarts School of Witchcraft and Wizardry in 1899, who subsequently learns to wield different magical abilities and objects, aided by other students and professors. The game was released for PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S, and Nintendo Switch in 2023.\n--------------------------------------------------------------------\n███ █┼█ ██▄ ███ ███ ███ ███ ██▄ ███\n█▄▄ █┼█ █▄█ █▄▄ █┼┼ █▄┼ ┼█┼ █▄█ █▄┼\n▄▄█ ███ █▄█ ▄▄█ ███ █┼█ ▄█▄ █▄█ █▄▄\n--------------------------------------------------------------------\nSubscribe and I'll be your bestest friend!\n#hogwartslegacy #gaming #harrypotter #lukestephens"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0ydo_sniLcCDsDdov4k1-rQ4wUg",
+      "id": "4FrjmADS6qo",
+      "snippet": {
+        "publishedAt": "2023-02-10T16:00:05Z",
+        "channelId": "UCaSgsFdGbwjfdawl3rOXiwQ",
+        "title": "Dead by Daylight | Tools Of Torment | Teaser",
+        "description": "Cutting edge innovation.  \n\nDead by Daylight: Tools Of Torment. Learn more on February 15th.  \n\nDead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four\u202fplay\u202fas Survivors. As a Killer your goal is to sacrifice as many Survivors as possible. As Survivors your goal is to work together to evade, escape, and most importantly – stay alive.\u202f\u202f\u202f\u202f\u202f\u202f\n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/ \u202f\u202f\n\nJoin the official forum:\u202f https://forums.bhvr.com/dead-by-daylight/\n\n\u202fLike and follow us on our official Social Media Channels:\u202f\u202f\u202f\u202f\u202f\n- Facebook:\u202f https://facebook.com/DeadByDaylight\n- Twitter:\u202f\u202fhttps://twitter.com/DeadByBHVR\n- Instagram:\u202f https://www.instagram.com/deadbydaylight/\n\n#DbD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4FrjmADS6qo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4FrjmADS6qo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4FrjmADS6qo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4FrjmADS6qo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4FrjmADS6qo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dead by Daylight",
+        "tags": [
+          "dead by daylight",
+          "dbd",
+          "behaviour interactive",
+          "bhvr",
+          "slasher game",
+          "survival horror",
+          "The Skull Merchant",
+          "Thalita Lyra",
+          "Renato Lyra",
+          "Tools Of Torment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dead by Daylight | Tools Of Torment | Teaser",
+          "description": "Cutting edge innovation.  \n\nDead by Daylight: Tools Of Torment. Learn more on February 15th.  \n\nDead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four\u202fplay\u202fas Survivors. As a Killer your goal is to sacrifice as many Survivors as possible. As Survivors your goal is to work together to evade, escape, and most importantly – stay alive.\u202f\u202f\u202f\u202f\u202f\u202f\n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/ \u202f\u202f\n\nJoin the official forum:\u202f https://forums.bhvr.com/dead-by-daylight/\n\n\u202fLike and follow us on our official Social Media Channels:\u202f\u202f\u202f\u202f\u202f\n- Facebook:\u202f https://facebook.com/DeadByDaylight\n- Twitter:\u202f\u202fhttps://twitter.com/DeadByBHVR\n- Instagram:\u202f https://www.instagram.com/deadbydaylight/\n\n#DbD"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bA-VRbFI6SFZLxxA49z_liqRy14",
+      "id": "Y3iWZjQ_gY4",
+      "snippet": {
+        "publishedAt": "2023-02-10T01:30:09Z",
+        "channelId": "UCgmUtgxaeaT6CSHc70AQMEg",
+        "title": "Kim Loaiza - INFIELES (Video Oficial)",
+        "description": "INFIELES • Kim Loaiza • Space Music \n\n• Kim Loaiza • Space Music 🚀\n\n\n✨ SIGUEME AQUI ✨\n\n\n• INSTAGRAM: @Kimberly.Loaiza http://bit.ly/IGKim\n\n• PAGINA DE FACEBOOK: Kimberly Loaiza http://bit.ly/FBKimL\n\n• TWITTER: KimberlyLoaiza_   http://bit.ly/KimLTW\n\n•SUSCRÍBETE AQUÍ: https://bit.ly/3oYuGUW\n\nLETRA ✍🏻 - \n\nSabíamos desde un principio \nDebimos sólo ser amigos \nEntre los dos nada debía pasar \nAhora todo es tan distinto \nY ahora somos dos extraños\nEn el juego del amor \nYo sabía que esto no estaba bien \nNo debimos inventar una fantasía \nY jugamos con fuego \nNo tuvimos miedo \n\nPero ya es muy tarde \nNos enamoramos \nY hoy te lo pido\nDime qué hago contigo \nYa es muy tarde \nEstamos perdidos \nY tu no haces nada \nPa cambiar la situación \nY ahora que \nY ahora que \n\nSolo busco una explicación \nSolución que le de sentido  \nLo que a mi  me pide el corazón \nEstoy en la prisión del amor ya\nEn esto no estoy sola \nEn esto estamos los dos \n\nLo nuestro es un delito \nPaguemos condena \nMírame a la cara esto es un dilema \nDime qué te frena baby \nDime qué nos frena baby \n\nLo nuestro es un delito \nPaguemos condena \nMírame a la cara esto es un dilema \nDime qué te frena baby \nDime qué nos frena baby \n\n ya es muy tarde \nNos enamoramos \nY hoy te lo pido\nDime qué hago contigo \nYa es muy tarde \nEstamos perdidos \nY tu no haces nada \nPa cambiar la situación \nY ahora que \nY ahora que \n\nY aunque el destino diga que no \nTenemos que aceptarlo \nEso fue culpa del deseo \nPor la forma de mirar \n Y aunque el destino hoy nos diga que no \nTenemos que aceptarlo tú y yo \nInfieles fuimos sin pensarlo \nY ahora que\n\nCONTACTO 💌: Marcaskim@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y3iWZjQ_gY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y3iWZjQ_gY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y3iWZjQ_gY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y3iWZjQ_gY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y3iWZjQ_gY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kim Loaiza",
+        "tags": [
+          "MUSICA",
+          "SPACE",
+          "MUSIC",
+          "KIM",
+          "LOAIZA",
+          "POP",
+          "TRAP",
+          "REGGAETON"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kim Loaiza - INFIELES (Video Oficial)",
+          "description": "INFIELES • Kim Loaiza • Space Music \n\n• Kim Loaiza • Space Music 🚀\n\n\n✨ SIGUEME AQUI ✨\n\n\n• INSTAGRAM: @Kimberly.Loaiza http://bit.ly/IGKim\n\n• PAGINA DE FACEBOOK: Kimberly Loaiza http://bit.ly/FBKimL\n\n• TWITTER: KimberlyLoaiza_   http://bit.ly/KimLTW\n\n•SUSCRÍBETE AQUÍ: https://bit.ly/3oYuGUW\n\nLETRA ✍🏻 - \n\nSabíamos desde un principio \nDebimos sólo ser amigos \nEntre los dos nada debía pasar \nAhora todo es tan distinto \nY ahora somos dos extraños\nEn el juego del amor \nYo sabía que esto no estaba bien \nNo debimos inventar una fantasía \nY jugamos con fuego \nNo tuvimos miedo \n\nPero ya es muy tarde \nNos enamoramos \nY hoy te lo pido\nDime qué hago contigo \nYa es muy tarde \nEstamos perdidos \nY tu no haces nada \nPa cambiar la situación \nY ahora que \nY ahora que \n\nSolo busco una explicación \nSolución que le de sentido  \nLo que a mi  me pide el corazón \nEstoy en la prisión del amor ya\nEn esto no estoy sola \nEn esto estamos los dos \n\nLo nuestro es un delito \nPaguemos condena \nMírame a la cara esto es un dilema \nDime qué te frena baby \nDime qué nos frena baby \n\nLo nuestro es un delito \nPaguemos condena \nMírame a la cara esto es un dilema \nDime qué te frena baby \nDime qué nos frena baby \n\n ya es muy tarde \nNos enamoramos \nY hoy te lo pido\nDime qué hago contigo \nYa es muy tarde \nEstamos perdidos \nY tu no haces nada \nPa cambiar la situación \nY ahora que \nY ahora que \n\nY aunque el destino diga que no \nTenemos que aceptarlo \nEso fue culpa del deseo \nPor la forma de mirar \n Y aunque el destino hoy nos diga que no \nTenemos que aceptarlo tú y yo \nInfieles fuimos sin pensarlo \nY ahora que\n\nCONTACTO 💌: Marcaskim@gmail.com"
+        },
+        "defaultAudioLanguage": "es-419"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xwAa-2edgmLaLgOkbBN0F0m7GgQ",
+      "id": "VQZaktQCRIs",
+      "snippet": {
+        "publishedAt": "2023-02-09T10:01:01Z",
+        "channelId": "UCzdDM4zheCgC3s4WzKhQ4-w",
+        "title": "Love You Anyway",
+        "description": "Provided to YouTube by River House Artists/Columbia Nashville\n\nLove You Anyway · Luke Combs\n\nLove You Anyway\n\n℗ 2023 River House Artists LLC, under exclusive license to Sony Music Entertainment. All rights reserved.\n\nReleased on: 2023-02-10\n\nElectric  Guitar: Rob McNelley\nKeyboards: Jim \"Moose\" Brown\nComposer, Lyricist: Ray Fulcher\nBass: Steve Mackey\nComposer, Lyricist: Dan Isbell\nDrums: Greg Morrow\nAcoustic  Guitar: Charlie Worsham\nElectric  Guitar: Sol Philcox-Littlefield\nFiddle: Larry Franklin\nBackground  Vocal, Electric  Guitar, Percussion, Unknown, Mixing  Engineer, Producer, Recording  Engineer: Chip Matthews\nBackground  Vocal, Electric  Guitar, Producer: Jonathan Singleton\nRecording  Engineer: Steve Blackmon\nAssistant  Engineer: Zach Kuhlman\nMastering  Engineer: Benny Quinn\nProject  Coordinator: Scott Johnson\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQZaktQCRIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQZaktQCRIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQZaktQCRIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VQZaktQCRIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VQZaktQCRIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Luke Combs - Topic",
+        "tags": ["Luke Combs", "Love You Anyway"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Love You Anyway",
+          "description": "Provided to YouTube by River House Artists/Columbia Nashville\n\nLove You Anyway · Luke Combs\n\nLove You Anyway\n\n℗ 2023 River House Artists LLC, under exclusive license to Sony Music Entertainment. All rights reserved.\n\nReleased on: 2023-02-10\n\nElectric  Guitar: Rob McNelley\nKeyboards: Jim \"Moose\" Brown\nComposer, Lyricist: Ray Fulcher\nBass: Steve Mackey\nComposer, Lyricist: Dan Isbell\nDrums: Greg Morrow\nAcoustic  Guitar: Charlie Worsham\nElectric  Guitar: Sol Philcox-Littlefield\nFiddle: Larry Franklin\nBackground  Vocal, Electric  Guitar, Percussion, Unknown, Mixing  Engineer, Producer, Recording  Engineer: Chip Matthews\nBackground  Vocal, Electric  Guitar, Producer: Jonathan Singleton\nRecording  Engineer: Steve Blackmon\nAssistant  Engineer: Zach Kuhlman\nMastering  Engineer: Benny Quinn\nProject  Coordinator: Scott Johnson\n\nAuto-generated by YouTube."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CkVsquoKFGOjOZPTw9myF9n4Ggw",
+      "id": "oFvjOv4hJ_k",
+      "snippet": {
+        "publishedAt": "2023-02-10T00:49:44Z",
+        "channelId": "UCqQo7ewe87aYAe7ub5UqXMw",
+        "title": "Inside the NBA Talk Winners & Losers At The Trade Deadline",
+        "description": "NBA X CREATOR MERCH DROP! CHECK IT OUT - https://hoh.world/k3l  \n\n📌 Follow HoH Instagram: https://www.instagram.com/houseofhighlights\n📌 Follow HoH TikTok: https://www.tiktok.com/@houseofhighlights\n\n#HouseofHighlights #NBA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oFvjOv4hJ_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oFvjOv4hJ_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oFvjOv4hJ_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oFvjOv4hJ_k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oFvjOv4hJ_k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "House of Highlights",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Inside the NBA Talk Winners & Losers At The Trade Deadline",
+          "description": "NBA X CREATOR MERCH DROP! CHECK IT OUT - https://hoh.world/k3l  \n\n📌 Follow HoH Instagram: https://www.instagram.com/houseofhighlights\n📌 Follow HoH TikTok: https://www.tiktok.com/@houseofhighlights\n\n#HouseofHighlights #NBA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rtzn2DxBcf1Nk2dRVg--7Xpp5qQ",
+      "id": "r0aGLAfwPvY",
+      "snippet": {
+        "publishedAt": "2023-02-10T02:00:06Z",
+        "channelId": "UCm4-jBPq-gbkgA1n9FvzIww",
+        "title": "OH BOY (Official Music Video)",
+        "description": "Kash Doll, DJ Drama, Baby Money \"OH BOY\" FT. Skilla Baby, Cash Kidd, RiskTaker D-Boy, DJBJ 3525\n\nBACK ON DEXTER: A GANGSTA GRILLZ MIXTAPE OUT NOW!!!\nhttps://lnk.to/BackOnDexterGangstaGrillz\n\n\nFOLLOW KASH DOLL\nIG: https://www.instagram.com/kashdoll/\nFB: https://www.facebook.com/KashDoll\nTW: https://twitter.com/kashdoll\nTT: https://www.tiktok.com/@kashdoll?lang=en\n\n\nLISTEN TO KASH DOLL\nAmazon Music: https://music.amazon.com/artists/B00N01LJBK/kash-doll?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_dVoHDSA1s0LA4EZVPL2oXx6MW\nApple Music: https://music.apple.com/us/artist/kash-doll/912341859\nSpotify: https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf?si=AqnrfJa8SqSwHNQGqH3g2g\nSoundcloud Profile: https://soundcloud.com/kashbratz\n\n#KASHDOLL #DJDRAMA #BABYMONEY #SKILLACASH #CASHKIDD #RISKTAKERDBOY #DJBJ3525 #DETROIT\n\nhttp://vevo.ly/0iF7CZ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r0aGLAfwPvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r0aGLAfwPvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r0aGLAfwPvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r0aGLAfwPvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r0aGLAfwPvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KashDollVEVO",
+        "tags": [
+          "Kash",
+          "Doll",
+          "Drama",
+          "Baby",
+          "Money",
+          "BOY",
+          "(Official",
+          "Music",
+          "Video)",
+          "Enterprises",
+          "Inc.",
+          "under",
+          "exclusive",
+          "license",
+          "MNRK",
+          "Records",
+          "Hip-Hop",
+          "Rap",
+          "R&B"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OH BOY (Official Music Video)",
+          "description": "Kash Doll, DJ Drama, Baby Money \"OH BOY\" FT. Skilla Baby, Cash Kidd, RiskTaker D-Boy, DJBJ 3525\n\nBACK ON DEXTER: A GANGSTA GRILLZ MIXTAPE OUT NOW!!!\nhttps://lnk.to/BackOnDexterGangstaGrillz\n\n\nFOLLOW KASH DOLL\nIG: https://www.instagram.com/kashdoll/\nFB: https://www.facebook.com/KashDoll\nTW: https://twitter.com/kashdoll\nTT: https://www.tiktok.com/@kashdoll?lang=en\n\n\nLISTEN TO KASH DOLL\nAmazon Music: https://music.amazon.com/artists/B00N01LJBK/kash-doll?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_dVoHDSA1s0LA4EZVPL2oXx6MW\nApple Music: https://music.apple.com/us/artist/kash-doll/912341859\nSpotify: https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf?si=AqnrfJa8SqSwHNQGqH3g2g\nSoundcloud Profile: https://soundcloud.com/kashbratz\n\n#KASHDOLL #DJDRAMA #BABYMONEY #SKILLACASH #CASHKIDD #RISKTAKERDBOY #DJBJ3525 #DETROIT\n\nhttp://vevo.ly/0iF7CZ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g1LOMBfbWkGm1AM1maijWTRtHko",
+      "id": "_ttIKCkUtQA",
+      "snippet": {
+        "publishedAt": "2023-02-10T05:00:12Z",
+        "channelId": "UC6G2vAJrt407lwiynW116Eg",
+        "title": "The Kid LAROI - Kids Are Growing Up (Part 1) (Official Video)",
+        "description": "The Kid LAROI “Kids Are Growing Up (Part 1)” Out Now – https://thekidlaroi.lnk.to/KAGUPart1\n\nOfficial Video for The Kid LAROI “Kids Are Growing Up”\n\nCredits:\nDirector: Ramez Silyan\nEP: Mike Lev\nProducer: Balint Seres\nPM: Celine Bot\nProd. Co: BLK MTN\n\nDirector of Photography: Marz Miller\n1st AC: Daniel Muchnik\n2nd AC: Jordan Sakai\nLoader: Michelle Suh\nSound Mixer: Nial Morgan\n\nGaffer: Julian Tuezzo\nBBE: Aiden de Jong\nSLT: David Veerman\nKey Grip: Perry Karidis\nBBG: Ken Hudnell\nBBG: Pat Christman\nGrip: Matt Markus\n\nKid Laroi - Stylist: Dev Alexander\nMUA/Casting: Syd Szramowski\n\nProduction Designer: Wesley Goodrich\nProp Master: Ryan Brennan\nScenic Artist: Graham Epstein\nArt PA: Carter McNeil\n\nPicture Car Operator: Juan Films\nPA Driver: Uriel Uribe\nPA Driver: Mike Scargall\nPA Driver: Chris Matthews\nPA Set: Joe Schadt\nPA Set: Omar Gutierrez\nMoho Driver: Anthony Rodriguez\n\nEditor: Nick Rondeau, Cabin Edit\nAsst. Editor: Esfandiar Bardon-Rafizadeh\nColor: Kaitlyn Batistelli, Ethos Studio\nVFX: Ryan ZumMallen, Ethos Studio\n\nProducer / Commissioner - Columbia Records: Saul Levitz\nKid Laroi - Creative Director: Cali Dewitt\n\nCast:\nVictor Dewitt\nSoph\nNatasha Alana\nClaire Wang\nChristopher Adams\nLeo Roberts\nKevin Jimenez\nJon Pablo Alamilla\nMaya Salinas\nYen Reneaux\nTJ Hamouzas\nBilly Walsh\nAvery Dewitt\nMalik Williams\nJabari Williams\n\nSpecial Thanks:\nPanavision\nLight Force\nVictor Dewitt\nMotion Picture Film Stock\n\nFollow The Kid LAROI:\nhttps://www.instagram.com/thekidlaroi\nhttps://www.tiktok.com/@thekidlaroi \nhttps://discord.gg/kidlaroi\nhttps://twitter.com/thekidlaroi\nhttps://www.facebook.com/thekidlaroi/\n\n#TheKidLAROI #THEFIRSTTIME #KidsAreGrowingUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ttIKCkUtQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ttIKCkUtQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ttIKCkUtQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ttIKCkUtQA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ttIKCkUtQA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Kid LAROI.",
+        "tags": [
+          "the kid laroi",
+          "laroi",
+          "thekidlaroi",
+          "kids are growing up kid laroi",
+          "kids are growing up part 1",
+          "the kid laroi new song",
+          "the kid laroi new video",
+          "tkl",
+          "the first time",
+          "laroi new song",
+          "laroi new video"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Kid LAROI - Kids Are Growing Up (Part 1) (Official Video)",
+          "description": "The Kid LAROI “Kids Are Growing Up (Part 1)” Out Now – https://thekidlaroi.lnk.to/KAGUPart1\n\nOfficial Video for The Kid LAROI “Kids Are Growing Up”\n\nCredits:\nDirector: Ramez Silyan\nEP: Mike Lev\nProducer: Balint Seres\nPM: Celine Bot\nProd. Co: BLK MTN\n\nDirector of Photography: Marz Miller\n1st AC: Daniel Muchnik\n2nd AC: Jordan Sakai\nLoader: Michelle Suh\nSound Mixer: Nial Morgan\n\nGaffer: Julian Tuezzo\nBBE: Aiden de Jong\nSLT: David Veerman\nKey Grip: Perry Karidis\nBBG: Ken Hudnell\nBBG: Pat Christman\nGrip: Matt Markus\n\nKid Laroi - Stylist: Dev Alexander\nMUA/Casting: Syd Szramowski\n\nProduction Designer: Wesley Goodrich\nProp Master: Ryan Brennan\nScenic Artist: Graham Epstein\nArt PA: Carter McNeil\n\nPicture Car Operator: Juan Films\nPA Driver: Uriel Uribe\nPA Driver: Mike Scargall\nPA Driver: Chris Matthews\nPA Set: Joe Schadt\nPA Set: Omar Gutierrez\nMoho Driver: Anthony Rodriguez\n\nEditor: Nick Rondeau, Cabin Edit\nAsst. Editor: Esfandiar Bardon-Rafizadeh\nColor: Kaitlyn Batistelli, Ethos Studio\nVFX: Ryan ZumMallen, Ethos Studio\n\nProducer / Commissioner - Columbia Records: Saul Levitz\nKid Laroi - Creative Director: Cali Dewitt\n\nCast:\nVictor Dewitt\nSoph\nNatasha Alana\nClaire Wang\nChristopher Adams\nLeo Roberts\nKevin Jimenez\nJon Pablo Alamilla\nMaya Salinas\nYen Reneaux\nTJ Hamouzas\nBilly Walsh\nAvery Dewitt\nMalik Williams\nJabari Williams\n\nSpecial Thanks:\nPanavision\nLight Force\nVictor Dewitt\nMotion Picture Film Stock\n\nFollow The Kid LAROI:\nhttps://www.instagram.com/thekidlaroi\nhttps://www.tiktok.com/@thekidlaroi \nhttps://discord.gg/kidlaroi\nhttps://twitter.com/thekidlaroi\nhttps://www.facebook.com/thekidlaroi/\n\n#TheKidLAROI #THEFIRSTTIME #KidsAreGrowingUp"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "775M1yaLz0vsY55HCHAX6GVrj08",
+      "id": "b9oEuqu8LBs",
+      "snippet": {
+        "publishedAt": "2023-02-08T19:32:13Z",
+        "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
+        "title": "I haven't played this game in 15 years...",
+        "description": "WELCOME to #DeadSpace remake!\nGET IT: https://www.inflcr.co/SHGSQ #SponsoredbyEA\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b9oEuqu8LBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b9oEuqu8LBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b9oEuqu8LBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b9oEuqu8LBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b9oEuqu8LBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CoryxKenshin",
+        "tags": [
+          "deadspace",
+          "dead",
+          "space",
+          "remake",
+          "gameplay",
+          "lets",
+          "play",
+          "part",
+          "part 1",
+          "walkthrough",
+          "playthrough",
+          "4k",
+          "ps5",
+          "haven't",
+          "played",
+          "this",
+          "game",
+          "in",
+          "15",
+          "years",
+          "scary",
+          "jumpscare",
+          "horror",
+          "isaac",
+          "coryxkenshin",
+          "cory",
+          "kenshin",
+          "funny",
+          "hilarious",
+          "moments",
+          "ea",
+          "2023",
+          "2008"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I haven't played this game in 15 years...",
+          "description": "WELCOME to #DeadSpace remake!\nGET IT: https://www.inflcr.co/SHGSQ #SponsoredbyEA\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B2A0aE9QTSCgHVkilGXFaV7VIwg",
+      "id": "6dGgjOf4CBY",
+      "snippet": {
+        "publishedAt": "2023-02-10T00:37:43Z",
+        "channelId": "UCAXEGk-l_ioBMvHa9_uHJjg",
+        "title": "Our pregnancy story and loss...",
+        "description": "JOIN US & SUBSCRIBE: https://bit.ly/2yXCDPy\r\n\r\nTURN ON POST NOTIFICATIONS FOR A SHOUTOUT IN OUR NEXT YOUTUBE VIDEO***\r\n \r\nBiz: abthings22@gmail.com\r\n\r\nOur Socials: \r\n\r\nAnthony's Instagram: https://www.instagram.com/imanthonyvargas/\r\nBella's Instagram : https://www.instagram.com/bellaretamosa/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6dGgjOf4CBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6dGgjOf4CBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6dGgjOf4CBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6dGgjOf4CBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6dGgjOf4CBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "A&B Things",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Our pregnancy story and loss...",
+          "description": "JOIN US & SUBSCRIBE: https://bit.ly/2yXCDPy\r\n\r\nTURN ON POST NOTIFICATIONS FOR A SHOUTOUT IN OUR NEXT YOUTUBE VIDEO***\r\n \r\nBiz: abthings22@gmail.com\r\n\r\nOur Socials: \r\n\r\nAnthony's Instagram: https://www.instagram.com/imanthonyvargas/\r\nBella's Instagram : https://www.instagram.com/bellaretamosa/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8hH2qPzg01OUcoEQgPURW5HpQ-0",
+      "id": "Euy4Yu6B3nU",
+      "snippet": {
+        "publishedAt": "2023-02-09T15:00:16Z",
+        "channelId": "UCf5CjDJvsFvtVIhkfmKAwAA",
+        "title": "AIR | Official Trailer",
+        "description": "From director Ben Affleck comes AIR. Exclusively in theaters April 5, 2023. #AIRMovie\n\nFollow @AIRMovie on Social:\n\nTwitter: https://twitter.com/airmovie\nInstagram: https://www.instagram.com/airmovie/\nTikTok: https://www.tiktok.com/@airmovie\nFacebook : https://www.facebook.com/AIR-Courting-A-Legend-102553119426963/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Euy4Yu6B3nU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Euy4Yu6B3nU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Euy4Yu6B3nU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Euy4Yu6B3nU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Euy4Yu6B3nU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MGM",
+        "tags": [
+          "MGM",
+          "MGM Studios",
+          "Metro-Goldwyn- Mayer",
+          "Metro Pictures Corporations",
+          "Goldwyn Pictures",
+          "Louis B. Mayer Pictures",
+          "MGM Pictures",
+          "United Artists",
+          "Metro MGM/UA",
+          "air",
+          "air trailer",
+          "air movie",
+          "air movie trailer",
+          "nike",
+          "nike movie",
+          "nike air",
+          "nike air movie",
+          "nike air trailer",
+          "nike trailer",
+          "amazon movie trailer",
+          "Matt Damon",
+          "Ben Affleck",
+          "Jason Bateman",
+          "Viola Davis",
+          "Chris Messina",
+          "Gustaf Skarsgård",
+          "Barbara Sukowa",
+          "Chris Tucker",
+          "Marlon Wayans",
+          "air 2023",
+          "air movie trailer 2023"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AIR | Official Trailer",
+          "description": "From director Ben Affleck comes AIR. Exclusively in theaters April 5, 2023. #AIRMovie\n\nFollow @AIRMovie on Social:\n\nTwitter: https://twitter.com/airmovie\nInstagram: https://www.instagram.com/airmovie/\nTikTok: https://www.tiktok.com/@airmovie\nFacebook : https://www.facebook.com/AIR-Courting-A-Legend-102553119426963/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

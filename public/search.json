@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "f3kdYaF9ChfmOr0VdRDG1fCUUN0",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "no7c_KSnQGosUy7YlyG4g886ajE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KCrXgy8qtjM"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-23T16:06:53Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Vite in 100 Seconds",
+        "description": "Vite is a JavaScript build tool that makes it faster and easier to build web applications. It's similar to tools like Webpack, but relies ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KCrXgy8qtjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KCrXgy8qtjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KCrXgy8qtjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-23T16:06:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nzU5OkErpiGSeHOi8MRKsmnZWl8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_iS4STWKSvk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T01:00:19Z",
+        "channelId": "UC3s58ASfc9ouNtRWxfj97OA",
+        "title": "Marco Mengoni - Due Vite (Official Video - Sanremo 2023)",
+        "description": "Marco Mengoni #DueVite #Sanremo2023 #OfficialVideo Ascolta ora Due Vite: https://Epic.lnk.to/DueVite Prendi la tua copia di ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_iS4STWKSvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_iS4STWKSvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_iS4STWKSvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MarcoMengoniVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T01:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eJ-KVY4VAInAt6Gabx0wgOEA9c4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4L1rRLfbbZ0"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-03T12:35:51Z",
+        "channelId": "UCHbXBo1fQAg7j0D7HKKYHJg",
+        "title": "⚡️개빠른 빌드 도구 Vite /vit/ project tooling",
+        "description": "https://okdevtv.com/mib/vite 프랑스어 vite는 fast의 뜻으로 발음은 /vit/입니다. * React + API Server 프로젝트 개발과 배포 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4L1rRLfbbZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4L1rRLfbbZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4L1rRLfbbZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kenu Heo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-03T12:35:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4wNCMGM721evU23_9NdBjt8EOqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DkGV5F4XnfQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-14T16:00:11Z",
+        "channelId": "UCa1zuotKU4Weuw_fLRnPv0A",
+        "title": "Learn Vite with Evan You",
+        "description": "Ready to master Vue.js? With weekly Vue js tutorials on the latest topics, and exclusive content with Evan You (the creator of Vue), ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DkGV5F4XnfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DkGV5F4XnfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DkGV5F4XnfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vue Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-14T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sr8YZBLkR6d80sGQIZasGMopQZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LQQ3CR2JTX8"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-24T14:00:05Z",
+        "channelId": "UCDCHcqyeQgJ-jVSd6VJkbCw",
+        "title": "Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, &amp; Lit (2021)",
+        "description": "Become A VS Code SuperHero Today: https://vsCodeHero.com \u200d  \u200d     Join my Discord developer community: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQQ3CR2JTX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQQ3CR2JTX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQQ3CR2JTX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "codeSTACKr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-24T14:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jYRbJ6Uh56AkP-I651A2Q0PGh00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-HQRx5_yzws"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T01:11:15Z",
+        "channelId": "UCoolLOcYkjU6Y2CiUNlIbAQ",
+        "title": "Due Vite",
+        "description": "Provided to YouTube by Epic Due Vite · Marco Mengoni Due Vite ℗ An Epic release 2023 Sony Music Entertainment Italy S.p.A. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HQRx5_yzws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HQRx5_yzws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HQRx5_yzws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Marco Mengoni - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T01:11:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e_cogSj86kZIkmK6RW8QJEkwdvk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "awGqVYm00Ck"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T19:45:53Z",
+        "channelId": "UCXQ1CRi8ytBkk5Orwe5mslw",
+        "title": "Vite da re",
+        "description": "Provided to YouTube by TuneCore Vite da re · Ricca Vite da re ℗ 2023 Ricca Released on: 2023-02-10 Auto-generated by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/awGqVYm00Ck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/awGqVYm00Ck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/awGqVYm00Ck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Various Artists - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T19:45:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L3WN0w1UXHrYtSoirabR973vY08",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SsITROMWhnM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-20T14:00:21Z",
+        "channelId": "UCY38RvRIxYODO4penyxUwTg",
+        "title": "STOP Wasting Time! Your Next App Needs Vite! | JS, Typescript, React",
+        "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap Your Next App Needs Vite! As a developer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SsITROMWhnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SsITROMWhnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SsITROMWhnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dave Gray",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-20T14:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BslTzAPUZSHHTpgv-R1nF5_DZOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k0PcqFXrKmE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T23:54:07Z",
+        "channelId": "UCKUzdt2sELyxd6mz-bAx3bA",
+        "title": "Sanremo 2023 - Marco Mengoni canta &#39;Due vite&#39;",
+        "description": "https://www.raiplay.it/programmi/festivaldisanremo - Marco Mengoni canta sul palco dell'Ariston il brano 'Due vite' in gara al ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k0PcqFXrKmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k0PcqFXrKmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0PcqFXrKmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T23:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xok-NO7TVwifHM-RXro-a5Sp4us",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LeTXF9UPmVc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T06:15:34Z",
+        "channelId": "UCRZBczc6EDOmjuF80-O1tdA",
+        "title": "VENDREDI SOIR ON VA BIEN S&#39;AMUSER CLICK VITE",
+        "description": "Si ma chaîne te plait ! Hésite pas à: T'abonner : https://bit.ly/2XOtq9O (merci) ✓Activez la cloche de notification ↪️Afin d'être ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LeTXF9UPmVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LeTXF9UPmVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LeTXF9UPmVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SISMA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T06:15:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BWijz6hPSkAIzh82deu8Vdyd-KM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9OmnmouE6tw"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-11T02:06:37Z",
+        "channelId": "UCMm15RFnHUvM-aSc50e7R9A",
+        "title": "Vite is The New Webpack and Create-React-App killer!",
+        "description": "As web developers, we always struggle with dev server and HMR performance as well as building production bundles that take ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9OmnmouE6tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9OmnmouE6tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9OmnmouE6tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CoderOne",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-11T02:06:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IBwboXdjk-JgvTCC7za-nkzuXhE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cchqeWY0Nak"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-02T17:14:23Z",
+        "channelId": "UCLNgu_OupwoeESgtab33CCw",
+        "title": "Setting up vite, React, TypeScript, eslint, prettier, vitest, testing-library and react-router",
+        "description": "In this video I show how to setup a react app with vite, typescript, eslint, prettier, vitest, testing-library and react-router. We will use ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cchqeWY0Nak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cchqeWY0Nak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cchqeWY0Nak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coding Garden",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-02T17:14:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z218Eo4cspjJB8MC0MS6yDG6Na8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-KEuTPIpLbE"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-04T09:20:54Z",
+        "channelId": "UCU5seEXTjpF4RRfQn-4242A",
+        "title": "Vite vs Create React App / Webpack, Vite and ESBuild explained.",
+        "description": "It's time for me to move on from using Create React App to build my React Apps. Vite is the new kid on the block and can be used ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-KEuTPIpLbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-KEuTPIpLbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-KEuTPIpLbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ian Lenehan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-04T09:20:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pEaBZcmdKQTVI12n0IotHXWBdFg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W6V9Z-FUEG8"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-27T03:00:03Z",
+        "channelId": "UCI4tTBupvhMX1aWDSm-HAXw",
+        "title": "뷰 3 [Vue 3] 빌드 Tool Vite!",
+        "description": "Vue 3 인프런 강좌 구매 링크: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W6V9Z-FUEG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W6V9Z-FUEG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W6V9Z-FUEG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코지 코더 Kossie Coder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-27T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "od5Cr9Vb_3RGdAu2CFvqsZR6JME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UdTD_NAWxyE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-15T20:25:22Z",
+        "channelId": "UC4stf3IjKIsmxMov8sNNuVA",
+        "title": "준비 5. vite 조금 더 뜯어보기 | 시나브로 자바스크립트",
+        "description": "vite 으로 만든 웹사이트의 bundle output 은 어떻게 생겼을까요? 직접 파일을 뜯어보고 vite 이 어떤 역할을 수행했길래 그런 결과물이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UdTD_NAWxyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UdTD_NAWxyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UdTD_NAWxyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Learn with Eunjae",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-15T20:25:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dLqXiP61NNvjoqnJFMABsX3ro9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-IpFY_JBDdc"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-16T10:30:01Z",
+        "channelId": "UCwfaAHy4zQUb2APNOGXUCCA",
+        "title": "Vite JS Better than Create-React-App ❓❓ Vite React Project &amp; Deployment in 10 Minutes 🔥",
+        "description": "Welcome, What is Vite JS? Why Vite Better than Create-React-App Vite React Project & Deployment in 10 Minutes Join this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-IpFY_JBDdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-IpFY_JBDdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-IpFY_JBDdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thapa Technical",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-16T10:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dIvWjXgVB5TNbUPClsWT7AmUYhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uBBvuA3b6kU"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-14T04:00:12Z",
+        "channelId": "UCI4tTBupvhMX1aWDSm-HAXw",
+        "title": "Vite로 설치한 Vue 3에서 Tailwindcss 사용하기!",
+        "description": "Vue 3 인프런 강좌 구매 링크: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uBBvuA3b6kU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uBBvuA3b6kU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBBvuA3b6kU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코지 코더 Kossie Coder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-14T04:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OFmJlxuaay8ycYOLBAEWrJnVB04",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZlmFUpOT07U"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-15T18:55:45Z",
+        "channelId": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+        "title": "What Is ViteJS?",
+        "description": "Become a Level Up Pro and take your web skills to the next level!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlmFUpOT07U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlmFUpOT07U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlmFUpOT07U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LevelUpTuts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-15T18:55:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZtX6ncDVO0LXh_KfRucOnOqDsjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nBYo2B2XN5s"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-15T13:51:11Z",
+        "channelId": "UCJUmE61LxhbhudzUugHL2wQ",
+        "title": "Vite: The Death of Webpack? 😨",
+        "description": "Vite has been catching a good momentum these days and is giving a rough time to Webpack. Do you think Vite will be the death ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nBYo2B2XN5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nBYo2B2XN5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nBYo2B2XN5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "codedamn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-15T13:51:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dTXdu6A7WM-c1tDe_eBfmPMyp5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7G2JaMFDQZ0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-30T08:54:48Z",
+        "channelId": "UCFq12kPZg4wTNPO7V_g3B-A",
+        "title": "Vite для быстрой разработки и сборки приложения",
+        "description": "Разбираемся с Vite - как создать проект, запустить его в режиме разработки, превью и выполнить сборку. Смотрим, что ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7G2JaMFDQZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7G2JaMFDQZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7G2JaMFDQZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Михаил Непомнящий",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-30T08:54:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0w7sIZkO6KtzU-A9iFgFagRVIxE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UJypSr8IhKY"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-16T11:43:38Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Next generation frontend tooling with ViteJS - Open Source Friday",
+        "description": "Watch Evan You (creator of Vue) and @bdougie share a new breed of frontend build tool that significantly improves the frontend ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJypSr8IhKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJypSr8IhKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJypSr8IhKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-16T11:43:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RHlprDEUfm83Lude3M5MEjd1gfQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CkltEDX31O8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-13T08:11:12Z",
+        "channelId": "UC8BTVj_9AmXq4RynzgOx8jA",
+        "title": "Верстка используем Vite как сборщик проекта | Learn What They Are &amp; How to Use Them",
+        "description": "Изучаем веб разработку на простых примерах: В данном плейлисте, ты освоишь что такое HTML, CSS, GitHub, git.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CkltEDX31O8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CkltEDX31O8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CkltEDX31O8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Frontend",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-13T08:11:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WpRLpXCs802x7iJiPBCk_sYanlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UX4gvort2TU"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-08T00:31:40Z",
+        "channelId": "UCMn28O1sQGochG94HdlthbA",
+        "title": "Introducción a Vite, mas Deploy en Github Pages (Por si no lo vite)",
+        "description": "Esta es una introducción Practica a Vite. Vite es una herramienta de generacion de proyectos de Frontend, similar en la practica a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UX4gvort2TU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UX4gvort2TU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UX4gvort2TU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fazt Code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-08T00:31:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mm0yQxubIM2UVOuM8IsV5itDHiQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3mHPagJWS0Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-02T00:31:39Z",
+        "channelId": "UCMn28O1sQGochG94HdlthbA",
+        "title": "¿Qué es Vite?",
+        "description": "Vite en la practica es similar a herramientas como create-react-app, vue-cli o herramientas de generacion de proyectos similares, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3mHPagJWS0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3mHPagJWS0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3mHPagJWS0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fazt Code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-02T00:31:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fZE_pxl4RRb8DVb3Qil4_-tcCMU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T89rimi2Q8A"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T00:48:40Z",
+        "channelId": "UCKUzdt2sELyxd6mz-bAx3bA",
+        "title": "Sanremo 2023 - Elodie canta &#39;Due&#39;",
+        "description": "https://www.raiplay.it/programmi/festivaldisanremo - Elodie canta sul palco dell'Ariston il brano 'Due' in gara al Festival di ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T89rimi2Q8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T89rimi2Q8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T89rimi2Q8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T00:48:40Z"
+      }
+    }
+  ]
+}
