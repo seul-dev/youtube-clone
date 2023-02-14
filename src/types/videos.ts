@@ -106,6 +106,13 @@ export interface SearchListResponse {
   items: Item[];
 }
 
+export interface Video {
+  id: string;
+  kind: string;
+  etag: string;
+  snippet: Snippet;
+}
+
 export interface PopularListResponse {
   kind: string;
   etag: string;
