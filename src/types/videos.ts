@@ -1,22 +1,7 @@
-interface BaseVideo {
-  kind: string;
-  etag: string;
-  id: string | Id;
-  snippet: VideoSnippet;
-}
-
-interface Id {
-  kind: string;
-  videoId: string;
-}
-
-interface VideoSnippet {
-  publishedAt: string;
-  channelId: string;
-  title: string;
-  description: string;
-  thumbnails: Thumbnails;
-  channelTitle: string;
+interface Thumbnail {
+  url: string;
+  width: number;
+  height: number;
 }
 
 interface Thumbnails {
@@ -25,33 +10,39 @@ interface Thumbnails {
   high: Thumbnail;
 }
 
-interface Thumbnail {
-  url: string;
-  width: number;
-  height: number;
-}
-
-interface DetailThumbnails extends Thumbnails {
+interface DetailedThumbnails extends Thumbnails {
   standard: Thumbnail;
   maxres: Thumbnail;
 }
 
-interface PopularSnippet extends VideoSnippet {
-  tags: string[];
-  categoryId: string;
-  liveBroadcastContent: string;
-  localized: Localized;
-  defaultAudioLanguage: string;
-}
-
-interface Localized {
+interface Snippet {
+  publishedAt: string;
+  channelId: string;
   title: string;
   description: string;
-}
-
-interface RelatedSnippet extends VideoSnippet {
+  thumbnails: Thumbnails;
+  channelTitle: string;
   liveBroadcastContent: string;
   publishTime: string;
+}
+
+interface RelatedSnippet {
+  publishedAt: string;
+  channelId: string;
+  title: string;
+  description: string;
+  thumbnails: DetailedThumbnails;
+  channelTitle: string;
+  liveBroadcastContent: string;
+  publishTime: string;
+}
+
+interface VideoSnippet extends Snippet {
+  thumbnails: DetailedThumbnails;
+  tags: string[];
+  categoryId: string;
+  localized: Localized;
+  defaultAudioLanguage: string;
 }
 
 interface ChannelSnippet {
@@ -64,21 +55,72 @@ interface ChannelSnippet {
   country: string;
 }
 
-export type SearchVideo = BaseVideo & {
-  id: Id;
-};
+interface Localized {
+  title: string;
+  description: string;
+}
 
-export type PopularVideo = BaseVideo & {
+interface Id {
+  kind: string;
+  videoId: string;
+}
+
+interface Item {
+  kind: string;
+  etag: string;
+  id: Id;
+  snippet: Snippet;
+}
+
+interface VideoItem {
+  kind: string;
+  etag: string;
   id: string;
-  snippet: PopularSnippet;
-};
+  snippet: VideoSnippet;
+}
 
-export type RelatedVideo = BaseVideo & {
-  id: Id;
-  snippet: RelatedSnippet;
-};
-
-export type ChannelVideo = BaseVideo & {
+interface Channeltem {
+  kind: string;
+  etag: string;
   id: string;
   snippet: ChannelSnippet;
-};
+}
+interface RelatedItem {
+  kind: string;
+  etag: string;
+  id: Id;
+  snippet: RelatedSnippet;
+}
+
+interface PageInfo {
+  totalResults: number;
+  resultsPerPage: number;
+}
+
+export interface SearchListResponse {
+  kind: string;
+  etag: string;
+  nextPageToken: string;
+  regionCode: string;
+  pageInfo: PageInfo;
+  items: Item[];
+}
+
+export interface PopularListResponse {
+  kind: string;
+  etag: string;
+  items: VideoItem[];
+}
+
+export interface ChannelResponse {
+  kind: string;
+  etag: string;
+  pageInfo: PageInfo;
+  items: Channeltem[];
+}
+
+export interface RelatedListResponse {
+  kind: string;
+  etag: string;
+  items: RelatedItem[];
+}
