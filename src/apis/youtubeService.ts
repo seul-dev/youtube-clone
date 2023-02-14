@@ -9,11 +9,11 @@ import type { YoutubeClient } from './youtubeClient';
 export default class YoutubeService {
   constructor(private apiClient: YoutubeClient) {}
 
-  search = async (keyword?: string) => {
+  async search(keyword?: string) {
     return keyword ? this.searchBykeyword(keyword) : this.mostPopular();
-  };
+  }
 
-  channelImageURL = async (id: string) => {
+  async channelImageURL(id: string) {
     return this.apiClient
       .channels<ChannelResponse>({
         params: {
@@ -22,9 +22,9 @@ export default class YoutubeService {
         },
       })
       .then((res) => res.data.items[0].snippet.thumbnails.default.url);
-  };
+  }
 
-  relatedVideos = async (id: string) => {
+  async relatedVideos(id: string) {
     return this.apiClient
       .search<RelatedListResponse>({
         params: {
@@ -37,9 +37,9 @@ export default class YoutubeService {
       .then((res) =>
         res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
       );
-  };
+  }
 
-  private searchBykeyword = async (keyword: string) => {
+  private async searchBykeyword(keyword: string) {
     return this.apiClient
       .search<SearchListResponse>({
         params: {
@@ -52,9 +52,9 @@ export default class YoutubeService {
       .then((res) =>
         res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
       );
-  };
+  }
 
-  private mostPopular = async () => {
+  private async mostPopular() {
     return this.apiClient
       .videos<PopularListResponse>({
         params: {
@@ -64,5 +64,5 @@ export default class YoutubeService {
         },
       })
       .then((res) => res.data.items);
-  };
+  }
 }
