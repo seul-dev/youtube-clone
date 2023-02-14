@@ -6,7 +6,7 @@ import type {
 } from '@projects/types/videos';
 import type { YoutubeClient } from './youtubeClient';
 
-export default class YoutubeServise {
+export default class YoutubeService {
   constructor(private apiClient: YoutubeClient) {}
 
   search = async (keyword?: string) => {
@@ -58,7 +58,7 @@ export default class YoutubeServise {
     return this.apiClient
       .videos<PopularListResponse>({
         params: {
-          part: 'snnippet',
+          part: 'snippet',
           maxResults: 25,
           chart: 'mostPopular',
         },
