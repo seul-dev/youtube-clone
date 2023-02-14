@@ -2,7 +2,7 @@
 import axios, { AxiosRequestConfig } from 'axios';
 import type { YoutubeClient } from './youtubeClient';
 
-export default class LocalClient implements YoutubeClient {
+export default class LocalClientImpl implements YoutubeClient {
   async search<T>(config?: AxiosRequestConfig) {
     return axios.get<T>(
       `/data/${config?.params.relatedToVideoId ? 'related' : 'search'}.json`
@@ -10,7 +10,7 @@ export default class LocalClient implements YoutubeClient {
   }
 
   async videos<T>() {
-    return axios.get<T>(`/data/videos/popular.json`);
+    return axios.get<T>(`/data/popular.json`);
   }
 
   async channels<T>() {
