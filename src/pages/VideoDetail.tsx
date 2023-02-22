@@ -16,9 +16,10 @@ export default function VideoDetail() {
   const { title, channelId, channelTitle, description } = video.snippet;
 
   useScrollToTop(video.id);
+
   return (
     <section className="flex flex-col lg:flex-row">
-      <article className="basis-4/6">
+      <article className="basis-4/6 m-5">
         <iframe
           id="player"
           width="100%"
@@ -26,8 +27,8 @@ export default function VideoDetail() {
           src={`https://www.youtube.com/embed/${video.id}`}
           title={title}
         />
-        <div className="p-8">
-          <h2 className="text-xl font-bold">{title}</h2>
+        <div>
+          <h1 className="text-3xl font-bold mt-6">{title}</h1>
           <ChannelInfo id={channelId} title={channelTitle} />
           <pre className="whitespace-pre-wrap">{description}</pre>
         </div>
