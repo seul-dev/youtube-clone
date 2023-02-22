@@ -1,5 +1,5 @@
-import youtubeService from '@apis';
 import { useQuery } from '@tanstack/react-query';
+import { youtubeService, CACHE_KEYS } from '@services';
 
 type Props = {
   id: string;
@@ -8,7 +8,7 @@ type Props = {
 
 export default function ChannelInfo({ id, title }: Props) {
   const { data: channelUrl } = useQuery(
-    ['videoInfo', id],
+    CACHE_KEYS.videoInfo(id),
     () => youtubeService.channelImageURL(id),
     {
       staleTime: 1000 * 60 * 5,

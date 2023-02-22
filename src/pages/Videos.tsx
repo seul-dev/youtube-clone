@@ -1,7 +1,7 @@
-import youtubeService from '@apis';
-import VideoCard from '@components/VideoCard';
 import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
+import { youtubeService, CACHE_KEYS } from '@services';
+import VideoCard from '@components/VideoCard';
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -9,9 +9,13 @@ export default function Videos() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', keyword], () => youtubeService.search(keyword), {
-    staleTime: 1000 * 60 * 1,
-  });
+  } = useQuery(
+    CACHE_KEYS.videos(keyword),
+    () => youtubeService.search(keyword),
+    {
+      staleTime: 1000 * 60 * 1,
+    }
+  );
   return (
     <>
       {isLoading && <div>isLoading...</div>}

@@ -1,5 +1,5 @@
-import youtubeService from '@apis/index';
 import { useQuery } from '@tanstack/react-query';
+import { youtubeService, CACHE_KEYS } from '@services';
 import VideoCard from './VideoCard';
 
 type Props = {
@@ -11,7 +11,7 @@ export default function RelatedVideos({ id }: Props) {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['relatedVideos', id], () => youtubeService.relatedVideos(id), {
+  } = useQuery(CACHE_KEYS.related(id), () => youtubeService.relatedVideos(id), {
     staleTime: 1000 * 60 * 5,
   });
 
