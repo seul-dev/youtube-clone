@@ -31,7 +31,8 @@
       "@theme/*": ["theme/*"],
       "@projects/types/*": ["types/*"],
       "@projects/types": ["types"],
-      "@utils": ["utils"]
+      "@utils": ["utils"],
+      "@utils/*": ["utils/*"]
     }
   },
   "include": [
