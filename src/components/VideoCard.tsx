@@ -12,7 +12,7 @@ export default function VideoCard({ video }: Props) {
   return (
     <li
       onClick={() => {
-        navigate(`videos/watch/${video.id}`, { state: { video } });
+        navigate(`/videos/watch/${video.id}`, { state: { video } });
       }}
       className="cursor-pointer"
     >
