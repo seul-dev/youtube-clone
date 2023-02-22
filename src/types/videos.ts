@@ -26,15 +26,8 @@ interface Snippet {
   publishTime: string;
 }
 
-interface RelatedSnippet {
-  publishedAt: string;
-  channelId: string;
-  title: string;
-  description: string;
+interface RelatedSnippet extends Snippet {
   thumbnails: DetailedThumbnails;
-  channelTitle: string;
-  liveBroadcastContent: string;
-  publishTime: string;
 }
 
 interface VideoSnippet extends Snippet {
@@ -45,12 +38,8 @@ interface VideoSnippet extends Snippet {
   defaultAudioLanguage: string;
 }
 
-interface ChannelSnippet {
-  title: string;
-  description: string;
+interface ChannelSnippet extends Snippet {
   customUrl: string;
-  publishedAt: string;
-  thumbnails: Thumbnails;
   localized: Localized;
   country: string;
 }
@@ -72,22 +61,16 @@ interface Item {
   snippet: Snippet;
 }
 
-interface VideoItem {
-  kind: string;
-  etag: string;
+interface VideoItem extends Omit<Item, 'id'> {
   id: string;
   snippet: VideoSnippet;
 }
 
-interface Channeltem {
-  kind: string;
-  etag: string;
+interface Channeltem extends Omit<Item, 'id'> {
   id: string;
   snippet: ChannelSnippet;
 }
-interface RelatedItem {
-  kind: string;
-  etag: string;
+interface RelatedItem extends Item {
   id: Id;
   snippet: RelatedSnippet;
 }
