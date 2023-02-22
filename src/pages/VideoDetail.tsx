@@ -1,4 +1,5 @@
 import ChannelInfo from '@components/ChannelInfo';
+import RelatedVideos from '@components/RelatedVideos';
 import type { Video } from '@projects/types/videos';
 import { useLocation } from 'react-router-dom';
 
@@ -30,6 +31,9 @@ export default function VideoDetail() {
           <pre>{description}</pre>
         </div>
       </article>
+      <section>
+        <RelatedVideos id={video.id} />
+      </section>
     </section>
   );
 }
