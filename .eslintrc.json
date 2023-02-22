@@ -12,7 +12,14 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended"
   ],
-  "overrides": [],
+  "overrides": [
+    {
+      "files": ["tailwind.config.cjs"],
+      "rules": {
+        "global-require": "off"
+      }
+    }
+  ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": "latest",
