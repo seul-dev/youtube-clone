@@ -1,4 +1,4 @@
-import youtubeService from '@apis/index';
+import youtubeService from '@apis';
 import { useQuery } from '@tanstack/react-query';
 
 type Props = {
@@ -10,12 +10,15 @@ export default function ChannelInfo({ id, title }: Props) {
   const { data: channelUrl } = useQuery(
     ['videoInfo', id],
     () => youtubeService.channelImageURL(id),
-    { staleTime: 1000 * 60 * 5 }
+    {
+      staleTime: 1000 * 60 * 5,
+    }
   );
 
   return (
-    <div>
-      <img src={channelUrl} alt={title} />
+    <div className="flex my-4 mb-8 items-center">
+      <img className="rounded-full w-10 h-10" src={channelUrl} alt={title} />
+      <p className="text-lg font-medium ml-3">{title}</p>
     </div>
   );
 }

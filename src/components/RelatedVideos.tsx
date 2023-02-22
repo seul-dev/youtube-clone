@@ -7,16 +7,25 @@ type Props = {
 };
 
 export default function RelatedVideos({ id }: Props) {
-  const { data: videos } = useQuery(
-    ['relatedVideos', id],
-    () => youtubeService.relatedVideos(id),
-    { staleTime: 1000 * 60 * 5 }
-  );
+  const {
+    isLoading,
+    error,
+    data: videos,
+  } = useQuery(['relatedVideos', id], () => youtubeService.relatedVideos(id), {
+    staleTime: 1000 * 60 * 5,
+  });
 
   return (
-    <ul>
-      {videos &&
-        videos.map((video) => <VideoCard key={video.id} video={video} />)}
-    </ul>
+    <>
+      {isLoading && <div>isLoading...</div>}
+      {error && <div>somethig is wrong</div>}
+      {videos && (
+        <ul>
+          {videos.map((video) => (
+            <VideoCard key={video.id} video={video} type="list" />
+          ))}
+        </ul>
+      )}
+    </>
   );
 }

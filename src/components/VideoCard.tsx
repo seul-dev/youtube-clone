@@ -4,20 +4,22 @@ import { formatAgo } from '@utils/formatAgo';
 
 type Props = {
   video: Video;
+  type?: 'list';
 };
 
-export default function VideoCard({ video }: Props) {
+export default function VideoCard({ video, type }: Props) {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const navigate = useNavigate();
+  const isList = type === 'list';
   return (
     <li
       onClick={() => {
         navigate(`/videos/watch/${video.id}`, { state: { video } });
       }}
-      className="cursor-pointer"
+      className={`cursor-pointer ${isList ? 'flex gap-2 m-2' : ''}`}
     >
       <img
-        className="w-full rounded-xl"
+        className={`rounded-xl ${isList ? 'w-60 mr-2' : 'w-full'}`}
         src={thumbnails.medium.url}
         alt={title}
       />
