@@ -14,6 +14,6 @@ export default class LocalClientImpl implements YoutubeClient {
   }
 
   async channels<T>() {
-    return axios.get<T>(`data/channel.json`);
+    return axios.get<T>(`/data/channel.json`);
   }
 }
