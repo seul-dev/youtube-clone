@@ -1,6 +1,7 @@
 import { useLocation } from 'react-router-dom';
 import type { Video } from '@projects/types/videos';
 import { ChannelInfo, RelatedVideos } from '@components';
+import useScrollToTop from '@hooks/useScrollToTop';
 
 type LocationState = {
   state: {
@@ -14,6 +15,7 @@ export default function VideoDetail() {
   } = useLocation() as LocationState;
   const { title, channelId, channelTitle, description } = video.snippet;
 
+  useScrollToTop(video.id);
   return (
     <section className="flex flex-col lg:flex-row">
       <article className="basis-4/6">
