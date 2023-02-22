@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
 import { youtubeService, CACHE_KEYS } from '@services';
-import VideoCard from '@components/VideoCard';
+import { VideoCard } from '@components';
 
 export default function Videos() {
   const { keyword } = useParams();

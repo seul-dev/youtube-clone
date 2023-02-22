@@ -1,7 +1,6 @@
-import ChannelInfo from '@components/ChannelInfo';
-import RelatedVideos from '@components/RelatedVideos';
-import type { Video } from '@projects/types/videos';
 import { useLocation } from 'react-router-dom';
+import type { Video } from '@projects/types/videos';
+import { ChannelInfo, RelatedVideos } from '@components';
 
 type LocationState = {
   state: {
