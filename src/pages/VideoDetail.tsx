@@ -2,6 +2,7 @@ import { useLocation } from 'react-router-dom';
 import type { Video } from '@projects/types/videos';
 import { ChannelInfo, RelatedVideos } from '@components';
 import useScrollToTop from '@hooks/useScrollToTop';
+import Description from '@components/Description';
 
 type LocationState = {
   state: {
@@ -30,7 +31,7 @@ export default function VideoDetail() {
         <div>
           <h1 className="text-3xl font-bold mt-6">{title}</h1>
           <ChannelInfo id={channelId} title={channelTitle} />
-          <pre className="whitespace-pre-wrap">{description}</pre>
+          <Description>{description}</Description>
         </div>
       </article>
       <section className="basis-2/6">
