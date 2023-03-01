@@ -19,7 +19,7 @@ export default function SearchHeader() {
 
   return (
     <header className="w-full flex p-4 text-2xl border-b border-gray_active mb-4">
-      <Link to="/" className="flex items-center">
+      <Link to="/" className="flex items-center pl-5">
         <BsYoutube className="text-4xl text-red" />
         <h1 className="font-bold ml-2 text-3xl">Youtube</h1>
       </Link>
