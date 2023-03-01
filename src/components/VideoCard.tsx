@@ -19,7 +19,7 @@ export default function VideoCard({ video, type }: Props) {
       className={`cursor-pointer ${isList ? 'flex gap-2 m-2' : ''}`}
     >
       <img
-        className={`rounded-xl ${isList ? 'w-60 mr-2' : 'w-full'}`}
+        className={`rounded-xl aspect-video ${isList ? 'w-60 mr-2' : 'w-full'}`}
         src={thumbnails.medium.url}
         alt={title}
       />
